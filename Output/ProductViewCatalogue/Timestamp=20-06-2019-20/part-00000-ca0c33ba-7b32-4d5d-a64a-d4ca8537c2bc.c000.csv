@@ -1,0 +1,22 @@
+CustomerId,ProductId,City,State,ZipCode,Product,Category,SubCategory,Channel
+1010_CId,114_PId,Baltimore,MD,021224,Kimono Outerwear,Apparel & Accessories,Clothing,Tablet
+1019_CId,142_PId,Taylor,MI,048180,Computer Risers & Stands,Electronics,Electronics Accessories,Tablet
+1001_CId,123_PId,New Orleans,LA,070116,Drawing & Painting Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1001_CId,102_PId,New Orleans,LA,070116,Cat Beds,Animals & Pet Supplies,Pet Supplies,Mobile
+1004_CId,117_PId,Anchorage,AK,099501,Baptism,Apparel & Accessories,Clothing,Desk
+1017_CId,150_PId,Mc Minnville,TN,037110,Laptop Docking Stations,Electronics,Electronics Accessories,Mobile
+1019_CId,140_PId,Taylor,MI,048180,Computer Accessory Sets,Electronics,Electronics Accessories,Desk
+1022_CId,143_PId,San Jose,CA,095111,Handheld Device Accessories,Electronics,Electronics Accessories,Mobile
+1014_CId,149_PId,Chagrin Falls,OH,044023,Keyboard Trays & Platforms,Electronics,Electronics Accessories,Desk
+1003_CId,138_PId,Bridgeport,NJ,008014,Vital Signs Monitor Accessories,Business & Industrial,Medical,Tablet
+1003_CId,124_PId,Bridgeport,NJ,008014,Fabric Repair Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1015_CId,136_PId,Laredo,TX,078045,Patient Lifts,Business & Industrial,Medical,Mobile
+1008_CId,137_PId,San Jose,CA,095111,Stethoscopes,Business & Industrial,Medical,Tablet
+1009_CId,145_PId,Sioux Falls,SD,057105,E-Book Reader Cases,Electronics,Electronics Accessories,Tablet
+1002_CId,130_PId,Brighton,MI,048116,Toy Craft Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1023_CId,109_PId,Irving,TX,075062,Cat Litter Boxes,Animals & Pet Supplies,Pet Supplies,Tablet
+1002_CId,104_PId,Brighton,MI,048116,Cat Furniture,Animals & Pet Supplies,Pet Supplies,Desk
+1012_CId,133_PId,Middle Island,NY,011953,Medical Reflex Hammers & Tuning Forks,Business & Industrial,Medical,Mobile
+1026_CId,106_PId,Stevens Point,WI,054481,Cat Litter,Animals & Pet Supplies,Pet Supplies,Tablet
+1015_CId,148_PId,Laredo,TX,078045,Keyboard & Mouse Wrist Rests,Electronics,Electronics Accessories,Mobile
+1027_CId,104_PId,Shawnee,KS,066218,Cat Furniture,Animals & Pet Supplies,Pet Supplies,Mobile

@@ -1,0 +1,51 @@
+ProductId,Product,Category,SubCategory
+101_PId,Cat Apparel,Animals & Pet Supplies,Pet Supplies
+102_PId,Cat Beds,Animals & Pet Supplies,Pet Supplies
+103_PId,Cat Food,Animals & Pet Supplies,Pet Supplies
+104_PId,Cat Furniture,Animals & Pet Supplies,Pet Supplies
+105_PId,Cat Furniture Accessories,Animals & Pet Supplies,Pet Supplies
+106_PId,Cat Litter,Animals & Pet Supplies,Pet Supplies
+107_PId,Cat Litter Box Liners,Animals & Pet Supplies,Pet Supplies
+108_PId,Cat Litter Box Mats,Animals & Pet Supplies,Pet Supplies
+109_PId,Cat Litter Boxes,Animals & Pet Supplies,Pet Supplies
+110_PId,Cat Toys,Animals & Pet Supplies,Pet Supplies
+111_PId,Dirndls,Apparel & Accessories,Clothing
+112_PId,Hakama Trousers,Apparel & Accessories,Clothing
+113_PId,Japanese Black Formal Wear,Apparel & Accessories,Clothing
+114_PId,Kimono Outerwear,Apparel & Accessories,Clothing
+115_PId,Kimonos,Apparel & Accessories,Clothing
+116_PId,Religious Ceremonial Clothing,Apparel & Accessories,Clothing
+117_PId,Baptism,Apparel & Accessories,Clothing
+118_PId,Loungewear,Apparel & Accessories,Clothing
+119_PId,Nightgowns,Apparel & Accessories,Clothing
+120_PId,Pajamas,Apparel & Accessories,Clothing
+121_PId,Robes,Apparel & Accessories,Clothing
+122_PId,Candle Making Kits,Arts & Entertainment,Hobbies & Creative Arts
+123_PId,Drawing & Painting Kits,Arts & Entertainment,Hobbies & Creative Arts
+124_PId,Fabric Repair Kits,Arts & Entertainment,Hobbies & Creative Arts
+125_PId,Incense Making Kits,Arts & Entertainment,Hobbies & Creative Arts
+126_PId,Jewelry Making Kits,Arts & Entertainment,Hobbies & Creative Arts
+127_PId,Mosaic Kits,Arts & Entertainment,Hobbies & Creative Arts
+128_PId,Needlecraft Kits,Arts & Entertainment,Hobbies & Creative Arts
+129_PId,Scrapbooking & Stamping Kits,Arts & Entertainment,Hobbies & Creative Arts
+130_PId,Toy Craft Kits,Arts & Entertainment,Hobbies & Creative Arts
+131_PId,Automated External Defibrillators,Business & Industrial,Medical
+132_PId,Gait Belts,Business & Industrial,Medical
+133_PId,Medical Reflex Hammers & Tuning Forks,Business & Industrial,Medical
+134_PId,Medical Stretchers & Gurneys,Business & Industrial,Medical
+135_PId,Otoscopes & Ophthalmoscopes,Business & Industrial,Medical
+136_PId,Patient Lifts,Business & Industrial,Medical
+137_PId,Stethoscopes,Business & Industrial,Medical
+138_PId,Vital Signs Monitor Accessories,Business & Industrial,Medical
+139_PId,Vital Signs Monitors,Business & Industrial,Medical
+140_PId,Computer Accessory Sets,Electronics,Electronics Accessories
+141_PId,Computer Covers & Skins,Electronics,Electronics Accessories
+142_PId,Computer Risers & Stands,Electronics,Electronics Accessories
+143_PId,Handheld Device Accessories,Electronics,Electronics Accessories
+144_PId,E-Book Reader Accessories,Electronics,Electronics Accessories
+145_PId,E-Book Reader Cases,Electronics,Electronics Accessories
+146_PId,PDA Accessories,Electronics,Electronics Accessories
+147_PId,PDA Cases,Electronics,Electronics Accessories
+148_PId,Keyboard & Mouse Wrist Rests,Electronics,Electronics Accessories
+149_PId,Keyboard Trays & Platforms,Electronics,Electronics Accessories
+150_PId,Laptop Docking Stations,Electronics,Electronics Accessories

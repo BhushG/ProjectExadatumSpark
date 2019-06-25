@@ -1,0 +1,13 @@
+CustomerId,ProductId,City,State,ZipCode,Product,Category,SubCategory,Channel
+1004_CId,139_PId,Anchorage,AK,099501,Vital Signs Monitors,Business & Industrial,Medical,Mobile
+1017_CId,121_PId,Mc Minnville,TN,037110,Robes,Apparel & Accessories,Clothing,Tablet
+1029_CId,138_PId,New York,NY,010011,Vital Signs Monitor Accessories,Business & Industrial,Medical,Mobile
+1009_CId,144_PId,Sioux Falls,SD,057105,E-Book Reader Accessories,Electronics,Electronics Accessories,Mobile
+1014_CId,119_PId,Chagrin Falls,OH,044023,Nightgowns,Apparel & Accessories,Clothing,Mobile
+1018_CId,115_PId,Milwaukee,WI,053207,Kimonos,Apparel & Accessories,Clothing,Mobile
+1005_CId,143_PId,Hamilton,OH,045011,Handheld Device Accessories,Electronics,Electronics Accessories,Desk
+1017_CId,110_PId,Mc Minnville,TN,037110,Cat Toys,Animals & Pet Supplies,Pet Supplies,Tablet
+1004_CId,140_PId,Anchorage,AK,099501,Computer Accessory Sets,Electronics,Electronics Accessories,Mobile
+1020_CId,146_PId,Rockford,IL,061109,PDA Accessories,Electronics,Electronics Accessories,Mobile
+1011_CId,105_PId,Kulpsville,PA,019443,Cat Furniture Accessories,Animals & Pet Supplies,Pet Supplies,Desk
+1002_CId,139_PId,Brighton,MI,048116,Vital Signs Monitors,Business & Industrial,Medical,Mobile

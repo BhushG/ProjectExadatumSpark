@@ -1,0 +1,36 @@
+CustomerId,ProductId,City,State,ZipCode,Product,Category,SubCategory,Channel
+1029_CId,147_PId,New York,NY,010011,PDA Cases,Electronics,Electronics Accessories,Mobile
+1029_CId,144_PId,New York,NY,010011,E-Book Reader Accessories,Electronics,Electronics Accessories,Mobile
+1023_CId,125_PId,Irving,TX,075062,Incense Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1023_CId,108_PId,Irving,TX,075062,Cat Litter Box Mats,Animals & Pet Supplies,Pet Supplies,Mobile
+1023_CId,103_PId,Irving,TX,075062,Cat Food,Animals & Pet Supplies,Pet Supplies,Mobile
+1005_CId,123_PId,Hamilton,OH,045011,Drawing & Painting Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1005_CId,123_PId,Hamilton,OH,045011,Drawing & Painting Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1005_CId,117_PId,Hamilton,OH,045011,Baptism,Apparel & Accessories,Clothing,Desk
+1006_CId,139_PId,Ashland,OH,044805,Vital Signs Monitors,Business & Industrial,Medical,Mobile
+1006_CId,150_PId,Ashland,OH,044805,Laptop Docking Stations,Electronics,Electronics Accessories,Mobile
+1006_CId,125_PId,Ashland,OH,044805,Incense Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1009_CId,108_PId,Sioux Falls,SD,057105,Cat Litter Box Mats,Animals & Pet Supplies,Pet Supplies,Tablet
+1009_CId,128_PId,Sioux Falls,SD,057105,Needlecraft Kits,Arts & Entertainment,Hobbies & Creative Arts,Tablet
+1003_CId,124_PId,Bridgeport,NJ,008014,Fabric Repair Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1003_CId,109_PId,Bridgeport,NJ,008014,Cat Litter Boxes,Animals & Pet Supplies,Pet Supplies,Desk
+1003_CId,114_PId,Bridgeport,NJ,008014,Kimono Outerwear,Apparel & Accessories,Clothing,Desk
+1003_CId,109_PId,Bridgeport,NJ,008014,Cat Litter Boxes,Animals & Pet Supplies,Pet Supplies,Desk
+1003_CId,113_PId,Bridgeport,NJ,008014,Japanese Black Formal Wear,Apparel & Accessories,Clothing,Desk
+1003_CId,125_PId,Bridgeport,NJ,008014,Incense Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1003_CId,118_PId,Bridgeport,NJ,008014,Loungewear,Apparel & Accessories,Clothing,Mobile
+1025_CId,123_PId,Middlesex,NJ,008846,Drawing & Painting Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1025_CId,135_PId,Middlesex,NJ,008846,Otoscopes & Ophthalmoscopes,Business & Industrial,Medical,Mobile
+1025_CId,136_PId,Middlesex,NJ,008846,Patient Lifts,Business & Industrial,Medical,Mobile
+1025_CId,131_PId,Middlesex,NJ,008846,Automated External Defibrillators,Business & Industrial,Medical,Mobile
+1025_CId,119_PId,Middlesex,NJ,008846,Nightgowns,Apparel & Accessories,Clothing,Mobile
+1029_CId,120_PId,New York,NY,010011,Pajamas,Apparel & Accessories,Clothing,Mobile
+1029_CId,115_PId,New York,NY,010011,Kimonos,Apparel & Accessories,Clothing,Mobile
+1029_CId,144_PId,New York,NY,010011,E-Book Reader Accessories,Electronics,Electronics Accessories,Mobile
+1029_CId,109_PId,New York,NY,010011,Cat Litter Boxes,Animals & Pet Supplies,Pet Supplies,Mobile
+1028_CId,148_PId,Easton,MD,021601,Keyboard & Mouse Wrist Rests,Electronics,Electronics Accessories,Tablet
+1028_CId,122_PId,Easton,MD,021601,Candle Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Tablet
+1028_CId,108_PId,Easton,MD,021601,Cat Litter Box Mats,Animals & Pet Supplies,Pet Supplies,Tablet
+1019_CId,116_PId,Taylor,MI,048180,Religious Ceremonial Clothing,Apparel & Accessories,Clothing,Mobile
+1019_CId,123_PId,Taylor,MI,048180,Drawing & Painting Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1019_CId,118_PId,Taylor,MI,048180,Loungewear,Apparel & Accessories,Clothing,Mobile

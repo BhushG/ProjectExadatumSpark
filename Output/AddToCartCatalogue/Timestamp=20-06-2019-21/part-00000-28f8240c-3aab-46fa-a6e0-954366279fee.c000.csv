@@ -1,0 +1,10 @@
+CustomerId,ProductId,City,State,ZipCode,Product,Category,SubCategory,Channel
+1029_CId,116_PId,New York,NY,010011,Religious Ceremonial Clothing,Apparel & Accessories,Clothing,Desk
+1001_CId,113_PId,New Orleans,LA,070116,Japanese Black Formal Wear,Apparel & Accessories,Clothing,Desk
+1017_CId,138_PId,Mc Minnville,TN,037110,Vital Signs Monitor Accessories,Business & Industrial,Medical,Tablet
+1002_CId,127_PId,Brighton,MI,048116,Mosaic Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1026_CId,102_PId,Stevens Point,WI,054481,Cat Beds,Animals & Pet Supplies,Pet Supplies,Desk
+1018_CId,113_PId,Milwaukee,WI,053207,Japanese Black Formal Wear,Apparel & Accessories,Clothing,Mobile
+1009_CId,149_PId,Sioux Falls,SD,057105,Keyboard Trays & Platforms,Electronics,Electronics Accessories,Desk
+1028_CId,113_PId,Easton,MD,021601,Japanese Black Formal Wear,Apparel & Accessories,Clothing,Mobile
+1004_CId,121_PId,Anchorage,AK,099501,Robes,Apparel & Accessories,Clothing,Mobile

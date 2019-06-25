@@ -1,0 +1,18 @@
+CustomerId,ProductId,City,State,ZipCode,Product,Category,SubCategory,Channel
+1028_CId,116_PId,Easton,MD,021601,Religious Ceremonial Clothing,Apparel & Accessories,Clothing,Tablet
+1003_CId,115_PId,Bridgeport,NJ,008014,Kimonos,Apparel & Accessories,Clothing,Tablet
+1011_CId,136_PId,Kulpsville,PA,019443,Patient Lifts,Business & Industrial,Medical,Desk
+1024_CId,102_PId,Albany,NY,012204,Cat Beds,Animals & Pet Supplies,Pet Supplies,Mobile
+1003_CId,113_PId,Bridgeport,NJ,008014,Japanese Black Formal Wear,Apparel & Accessories,Clothing,Mobile
+1003_CId,142_PId,Bridgeport,NJ,008014,Computer Risers & Stands,Electronics,Electronics Accessories,Tablet
+1012_CId,136_PId,Middle Island,NY,011953,Patient Lifts,Business & Industrial,Medical,Tablet
+1016_CId,136_PId,Phoenix,AZ,085013,Patient Lifts,Business & Industrial,Medical,Mobile
+1013_CId,146_PId,Los Angeles,CA,090034,PDA Accessories,Electronics,Electronics Accessories,Mobile
+1030_CId,125_PId,Conroe,TX,077301,Incense Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1030_CId,145_PId,Conroe,TX,077301,E-Book Reader Cases,Electronics,Electronics Accessories,Desk
+1023_CId,145_PId,Irving,TX,075062,E-Book Reader Cases,Electronics,Electronics Accessories,Desk
+1029_CId,111_PId,New York,NY,010011,Dirndls,Apparel & Accessories,Clothing,Desk
+1007_CId,116_PId,Chicago,IL,060632,Religious Ceremonial Clothing,Apparel & Accessories,Clothing,Desk
+1025_CId,137_PId,Middlesex,NJ,008846,Stethoscopes,Business & Industrial,Medical,Tablet
+1029_CId,106_PId,New York,NY,010011,Cat Litter,Animals & Pet Supplies,Pet Supplies,Tablet
+1009_CId,127_PId,Sioux Falls,SD,057105,Mosaic Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile

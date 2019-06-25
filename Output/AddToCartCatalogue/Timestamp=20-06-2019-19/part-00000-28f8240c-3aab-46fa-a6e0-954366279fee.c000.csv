@@ -1,0 +1,15 @@
+CustomerId,ProductId,City,State,ZipCode,Product,Category,SubCategory,Channel
+1030_CId,128_PId,Conroe,TX,077301,Needlecraft Kits,Arts & Entertainment,Hobbies & Creative Arts,Tablet
+1002_CId,101_PId,Brighton,MI,048116,Cat Apparel,Animals & Pet Supplies,Pet Supplies,Tablet
+1008_CId,106_PId,San Jose,CA,095111,Cat Litter,Animals & Pet Supplies,Pet Supplies,Desk
+1015_CId,111_PId,Laredo,TX,078045,Dirndls,Apparel & Accessories,Clothing,Tablet
+1021_CId,103_PId,Aston,PA,019014,Cat Food,Animals & Pet Supplies,Pet Supplies,Desk
+1023_CId,131_PId,Irving,TX,075062,Automated External Defibrillators,Business & Industrial,Medical,Tablet
+1007_CId,141_PId,Chicago,IL,060632,Computer Covers & Skins,Electronics,Electronics Accessories,Desk
+1015_CId,104_PId,Laredo,TX,078045,Cat Furniture,Animals & Pet Supplies,Pet Supplies,Tablet
+1008_CId,132_PId,San Jose,CA,095111,Gait Belts,Business & Industrial,Medical,Mobile
+1005_CId,101_PId,Hamilton,OH,045011,Cat Apparel,Animals & Pet Supplies,Pet Supplies,Tablet
+1023_CId,150_PId,Irving,TX,075062,Laptop Docking Stations,Electronics,Electronics Accessories,Desk
+1006_CId,123_PId,Ashland,OH,044805,Drawing & Painting Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1006_CId,105_PId,Ashland,OH,044805,Cat Furniture Accessories,Animals & Pet Supplies,Pet Supplies,Tablet
+1029_CId,102_PId,New York,NY,010011,Cat Beds,Animals & Pet Supplies,Pet Supplies,Mobile

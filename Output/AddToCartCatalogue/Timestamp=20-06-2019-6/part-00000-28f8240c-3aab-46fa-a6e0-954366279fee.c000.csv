@@ -1,0 +1,16 @@
+CustomerId,ProductId,City,State,ZipCode,Product,Category,SubCategory,Channel
+1015_CId,133_PId,Laredo,TX,078045,Medical Reflex Hammers & Tuning Forks,Business & Industrial,Medical,Mobile
+1026_CId,119_PId,Stevens Point,WI,054481,Nightgowns,Apparel & Accessories,Clothing,Tablet
+1015_CId,146_PId,Laredo,TX,078045,PDA Accessories,Electronics,Electronics Accessories,Mobile
+1025_CId,106_PId,Middlesex,NJ,008846,Cat Litter,Animals & Pet Supplies,Pet Supplies,Tablet
+1006_CId,101_PId,Ashland,OH,044805,Cat Apparel,Animals & Pet Supplies,Pet Supplies,Desk
+1020_CId,109_PId,Rockford,IL,061109,Cat Litter Boxes,Animals & Pet Supplies,Pet Supplies,Desk
+1017_CId,142_PId,Mc Minnville,TN,037110,Computer Risers & Stands,Electronics,Electronics Accessories,Desk
+1023_CId,132_PId,Irving,TX,075062,Gait Belts,Business & Industrial,Medical,Tablet
+1026_CId,132_PId,Stevens Point,WI,054481,Gait Belts,Business & Industrial,Medical,Mobile
+1014_CId,139_PId,Chagrin Falls,OH,044023,Vital Signs Monitors,Business & Industrial,Medical,Tablet
+1028_CId,137_PId,Easton,MD,021601,Stethoscopes,Business & Industrial,Medical,Desk
+1002_CId,110_PId,Brighton,MI,048116,Cat Toys,Animals & Pet Supplies,Pet Supplies,Tablet
+1012_CId,109_PId,Middle Island,NY,011953,Cat Litter Boxes,Animals & Pet Supplies,Pet Supplies,Tablet
+1025_CId,139_PId,Middlesex,NJ,008846,Vital Signs Monitors,Business & Industrial,Medical,Desk
+1021_CId,145_PId,Aston,PA,019014,E-Book Reader Cases,Electronics,Electronics Accessories,Mobile

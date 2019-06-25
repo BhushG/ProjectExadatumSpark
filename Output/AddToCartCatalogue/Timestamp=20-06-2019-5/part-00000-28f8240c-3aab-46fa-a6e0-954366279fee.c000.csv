@@ -1,0 +1,12 @@
+CustomerId,ProductId,City,State,ZipCode,Product,Category,SubCategory,Channel
+1020_CId,101_PId,Rockford,IL,061109,Cat Apparel,Animals & Pet Supplies,Pet Supplies,Tablet
+1030_CId,137_PId,Conroe,TX,077301,Stethoscopes,Business & Industrial,Medical,Desk
+1021_CId,124_PId,Aston,PA,019014,Fabric Repair Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1018_CId,148_PId,Milwaukee,WI,053207,Keyboard & Mouse Wrist Rests,Electronics,Electronics Accessories,Tablet
+1003_CId,122_PId,Bridgeport,NJ,008014,Candle Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1010_CId,132_PId,Baltimore,MD,021224,Gait Belts,Business & Industrial,Medical,Desk
+1019_CId,131_PId,Taylor,MI,048180,Automated External Defibrillators,Business & Industrial,Medical,Tablet
+1014_CId,109_PId,Chagrin Falls,OH,044023,Cat Litter Boxes,Animals & Pet Supplies,Pet Supplies,Mobile
+1016_CId,116_PId,Phoenix,AZ,085013,Religious Ceremonial Clothing,Apparel & Accessories,Clothing,Mobile
+1004_CId,109_PId,Anchorage,AK,099501,Cat Litter Boxes,Animals & Pet Supplies,Pet Supplies,Tablet
+1016_CId,138_PId,Phoenix,AZ,085013,Vital Signs Monitor Accessories,Business & Industrial,Medical,Desk

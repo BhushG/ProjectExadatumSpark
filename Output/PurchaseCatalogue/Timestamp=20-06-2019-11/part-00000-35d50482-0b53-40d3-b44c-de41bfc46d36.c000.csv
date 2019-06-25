@@ -1,0 +1,23 @@
+CustomerId,ProductId,City,State,ZipCode,Product,Category,SubCategory,Channel
+1013_CId,128_PId,Los Angeles,CA,090034,Needlecraft Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1013_CId,150_PId,Los Angeles,CA,090034,Laptop Docking Stations,Electronics,Electronics Accessories,Mobile
+1013_CId,129_PId,Los Angeles,CA,090034,Scrapbooking & Stamping Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1013_CId,126_PId,Los Angeles,CA,090034,Jewelry Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1003_CId,150_PId,Bridgeport,NJ,008014,Laptop Docking Stations,Electronics,Electronics Accessories,Mobile
+1003_CId,107_PId,Bridgeport,NJ,008014,Cat Litter Box Liners,Animals & Pet Supplies,Pet Supplies,Mobile
+1003_CId,132_PId,Bridgeport,NJ,008014,Gait Belts,Business & Industrial,Medical,Mobile
+1003_CId,140_PId,Bridgeport,NJ,008014,Computer Accessory Sets,Electronics,Electronics Accessories,Mobile
+1003_CId,109_PId,Bridgeport,NJ,008014,Cat Litter Boxes,Animals & Pet Supplies,Pet Supplies,Mobile
+1024_CId,116_PId,Albany,NY,012204,Religious Ceremonial Clothing,Apparel & Accessories,Clothing,Tablet
+1024_CId,121_PId,Albany,NY,012204,Robes,Apparel & Accessories,Clothing,Tablet
+1024_CId,124_PId,Albany,NY,012204,Fabric Repair Kits,Arts & Entertainment,Hobbies & Creative Arts,Tablet
+1018_CId,150_PId,Milwaukee,WI,053207,Laptop Docking Stations,Electronics,Electronics Accessories,Mobile
+1018_CId,107_PId,Milwaukee,WI,053207,Cat Litter Box Liners,Animals & Pet Supplies,Pet Supplies,Mobile
+1018_CId,137_PId,Milwaukee,WI,053207,Stethoscopes,Business & Industrial,Medical,Mobile
+1018_CId,127_PId,Milwaukee,WI,053207,Mosaic Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1018_CId,137_PId,Milwaukee,WI,053207,Stethoscopes,Business & Industrial,Medical,Mobile
+1009_CId,138_PId,Sioux Falls,SD,057105,Vital Signs Monitor Accessories,Business & Industrial,Medical,Desk
+1009_CId,136_PId,Sioux Falls,SD,057105,Patient Lifts,Business & Industrial,Medical,Desk
+1009_CId,148_PId,Sioux Falls,SD,057105,Keyboard & Mouse Wrist Rests,Electronics,Electronics Accessories,Desk
+1009_CId,111_PId,Sioux Falls,SD,057105,Dirndls,Apparel & Accessories,Clothing,Desk
+1009_CId,116_PId,Sioux Falls,SD,057105,Religious Ceremonial Clothing,Apparel & Accessories,Clothing,Desk

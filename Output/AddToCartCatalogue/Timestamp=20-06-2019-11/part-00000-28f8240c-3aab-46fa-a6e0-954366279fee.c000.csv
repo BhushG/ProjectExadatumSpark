@@ -1,0 +1,14 @@
+CustomerId,ProductId,City,State,ZipCode,Product,Category,SubCategory,Channel
+1009_CId,118_PId,Sioux Falls,SD,057105,Loungewear,Apparel & Accessories,Clothing,Mobile
+1009_CId,108_PId,Sioux Falls,SD,057105,Cat Litter Box Mats,Animals & Pet Supplies,Pet Supplies,Mobile
+1012_CId,123_PId,Middle Island,NY,011953,Drawing & Painting Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1006_CId,109_PId,Ashland,OH,044805,Cat Litter Boxes,Animals & Pet Supplies,Pet Supplies,Tablet
+1006_CId,122_PId,Ashland,OH,044805,Candle Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1022_CId,144_PId,San Jose,CA,095111,E-Book Reader Accessories,Electronics,Electronics Accessories,Mobile
+1030_CId,115_PId,Conroe,TX,077301,Kimonos,Apparel & Accessories,Clothing,Desk
+1027_CId,118_PId,Shawnee,KS,066218,Loungewear,Apparel & Accessories,Clothing,Tablet
+1003_CId,109_PId,Bridgeport,NJ,008014,Cat Litter Boxes,Animals & Pet Supplies,Pet Supplies,Mobile
+1022_CId,121_PId,San Jose,CA,095111,Robes,Apparel & Accessories,Clothing,Desk
+1018_CId,134_PId,Milwaukee,WI,053207,Medical Stretchers & Gurneys,Business & Industrial,Medical,Tablet
+1019_CId,123_PId,Taylor,MI,048180,Drawing & Painting Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1017_CId,104_PId,Mc Minnville,TN,037110,Cat Furniture,Animals & Pet Supplies,Pet Supplies,Desk

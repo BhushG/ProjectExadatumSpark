@@ -1,0 +1,33 @@
+CustomerId,ProductId,City,State,ZipCode,Product,Category,SubCategory,Channel
+1005_CId,125_PId,Hamilton,OH,045011,Incense Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1005_CId,122_PId,Hamilton,OH,045011,Candle Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1005_CId,139_PId,Hamilton,OH,045011,Vital Signs Monitors,Business & Industrial,Medical,Desk
+1016_CId,136_PId,Phoenix,AZ,085013,Patient Lifts,Business & Industrial,Medical,Mobile
+1016_CId,119_PId,Phoenix,AZ,085013,Nightgowns,Apparel & Accessories,Clothing,Mobile
+1009_CId,121_PId,Sioux Falls,SD,057105,Robes,Apparel & Accessories,Clothing,Tablet
+1009_CId,135_PId,Sioux Falls,SD,057105,Otoscopes & Ophthalmoscopes,Business & Industrial,Medical,Tablet
+1009_CId,138_PId,Sioux Falls,SD,057105,Vital Signs Monitor Accessories,Business & Industrial,Medical,Tablet
+1009_CId,119_PId,Sioux Falls,SD,057105,Nightgowns,Apparel & Accessories,Clothing,Tablet
+1017_CId,124_PId,Mc Minnville,TN,037110,Fabric Repair Kits,Arts & Entertainment,Hobbies & Creative Arts,Tablet
+1017_CId,149_PId,Mc Minnville,TN,037110,Keyboard Trays & Platforms,Electronics,Electronics Accessories,Tablet
+1017_CId,115_PId,Mc Minnville,TN,037110,Kimonos,Apparel & Accessories,Clothing,Tablet
+1017_CId,115_PId,Mc Minnville,TN,037110,Kimonos,Apparel & Accessories,Clothing,Tablet
+1016_CId,132_PId,Phoenix,AZ,085013,Gait Belts,Business & Industrial,Medical,Desk
+1016_CId,113_PId,Phoenix,AZ,085013,Japanese Black Formal Wear,Apparel & Accessories,Clothing,Desk
+1016_CId,103_PId,Phoenix,AZ,085013,Cat Food,Animals & Pet Supplies,Pet Supplies,Desk
+1023_CId,138_PId,Irving,TX,075062,Vital Signs Monitor Accessories,Business & Industrial,Medical,Tablet
+1023_CId,116_PId,Irving,TX,075062,Religious Ceremonial Clothing,Apparel & Accessories,Clothing,Tablet
+1023_CId,107_PId,Irving,TX,075062,Cat Litter Box Liners,Animals & Pet Supplies,Pet Supplies,Tablet
+1023_CId,116_PId,Irving,TX,075062,Religious Ceremonial Clothing,Apparel & Accessories,Clothing,Tablet
+1023_CId,132_PId,Irving,TX,075062,Gait Belts,Business & Industrial,Medical,Tablet
+1008_CId,113_PId,San Jose,CA,095111,Japanese Black Formal Wear,Apparel & Accessories,Clothing,Mobile
+1008_CId,118_PId,San Jose,CA,095111,Loungewear,Apparel & Accessories,Clothing,Mobile
+1008_CId,121_PId,San Jose,CA,095111,Robes,Apparel & Accessories,Clothing,Mobile
+1008_CId,111_PId,San Jose,CA,095111,Dirndls,Apparel & Accessories,Clothing,Mobile
+1007_CId,129_PId,Chicago,IL,060632,Scrapbooking & Stamping Kits,Arts & Entertainment,Hobbies & Creative Arts,Tablet
+1007_CId,136_PId,Chicago,IL,060632,Patient Lifts,Business & Industrial,Medical,Tablet
+1024_CId,149_PId,Albany,NY,012204,Keyboard Trays & Platforms,Electronics,Electronics Accessories,Desk
+1024_CId,139_PId,Albany,NY,012204,Vital Signs Monitors,Business & Industrial,Medical,Desk
+1024_CId,146_PId,Albany,NY,012204,PDA Accessories,Electronics,Electronics Accessories,Desk
+1002_CId,128_PId,Brighton,MI,048116,Needlecraft Kits,Arts & Entertainment,Hobbies & Creative Arts,Tablet
+1002_CId,107_PId,Brighton,MI,048116,Cat Litter Box Liners,Animals & Pet Supplies,Pet Supplies,Tablet

@@ -1,0 +1,34 @@
+CustomerId,ProductId,City,State,ZipCode,Product,Category,SubCategory,Channel
+1013_CId,125_PId,Los Angeles,CA,090034,Incense Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1003_CId,136_PId,Bridgeport,NJ,008014,Patient Lifts,Business & Industrial,Medical,Desk
+1003_CId,144_PId,Bridgeport,NJ,008014,E-Book Reader Accessories,Electronics,Electronics Accessories,Mobile
+1008_CId,124_PId,San Jose,CA,095111,Fabric Repair Kits,Arts & Entertainment,Hobbies & Creative Arts,Tablet
+1007_CId,118_PId,Chicago,IL,060632,Loungewear,Apparel & Accessories,Clothing,Tablet
+1012_CId,123_PId,Middle Island,NY,011953,Drawing & Painting Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1026_CId,143_PId,Stevens Point,WI,054481,Handheld Device Accessories,Electronics,Electronics Accessories,Mobile
+1017_CId,140_PId,Mc Minnville,TN,037110,Computer Accessory Sets,Electronics,Electronics Accessories,Tablet
+1002_CId,122_PId,Brighton,MI,048116,Candle Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1020_CId,101_PId,Rockford,IL,061109,Cat Apparel,Animals & Pet Supplies,Pet Supplies,Desk
+1019_CId,108_PId,Taylor,MI,048180,Cat Litter Box Mats,Animals & Pet Supplies,Pet Supplies,Desk
+1026_CId,147_PId,Stevens Point,WI,054481,PDA Cases,Electronics,Electronics Accessories,Tablet
+1016_CId,124_PId,Phoenix,AZ,085013,Fabric Repair Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1016_CId,139_PId,Phoenix,AZ,085013,Vital Signs Monitors,Business & Industrial,Medical,Desk
+1022_CId,127_PId,San Jose,CA,095111,Mosaic Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1021_CId,114_PId,Aston,PA,019014,Kimono Outerwear,Apparel & Accessories,Clothing,Tablet
+1018_CId,119_PId,Milwaukee,WI,053207,Nightgowns,Apparel & Accessories,Clothing,Tablet
+1030_CId,112_PId,Conroe,TX,077301,Hakama Trousers,Apparel & Accessories,Clothing,Mobile
+1006_CId,123_PId,Ashland,OH,044805,Drawing & Painting Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1024_CId,111_PId,Albany,NY,012204,Dirndls,Apparel & Accessories,Clothing,Desk
+1022_CId,122_PId,San Jose,CA,095111,Candle Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Tablet
+1002_CId,106_PId,Brighton,MI,048116,Cat Litter,Animals & Pet Supplies,Pet Supplies,Desk
+1015_CId,114_PId,Laredo,TX,078045,Kimono Outerwear,Apparel & Accessories,Clothing,Tablet
+1005_CId,133_PId,Hamilton,OH,045011,Medical Reflex Hammers & Tuning Forks,Business & Industrial,Medical,Desk
+1015_CId,132_PId,Laredo,TX,078045,Gait Belts,Business & Industrial,Medical,Tablet
+1025_CId,102_PId,Middlesex,NJ,008846,Cat Beds,Animals & Pet Supplies,Pet Supplies,Desk
+1002_CId,115_PId,Brighton,MI,048116,Kimonos,Apparel & Accessories,Clothing,Tablet
+1001_CId,104_PId,New Orleans,LA,070116,Cat Furniture,Animals & Pet Supplies,Pet Supplies,Mobile
+1014_CId,135_PId,Chagrin Falls,OH,044023,Otoscopes & Ophthalmoscopes,Business & Industrial,Medical,Desk
+1004_CId,127_PId,Anchorage,AK,099501,Mosaic Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1021_CId,110_PId,Aston,PA,019014,Cat Toys,Animals & Pet Supplies,Pet Supplies,Mobile
+1019_CId,116_PId,Taylor,MI,048180,Religious Ceremonial Clothing,Apparel & Accessories,Clothing,Desk
+1012_CId,114_PId,Middle Island,NY,011953,Kimono Outerwear,Apparel & Accessories,Clothing,Mobile

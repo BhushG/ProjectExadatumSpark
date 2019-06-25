@@ -1,0 +1,31 @@
+CustomerId,ProductId,City,State,ZipCode,Product,Category,SubCategory,Channel
+1009_CId,140_PId,Sioux Falls,SD,057105,Computer Accessory Sets,Electronics,Electronics Accessories,Tablet
+1001_CId,149_PId,New Orleans,LA,070116,Keyboard Trays & Platforms,Electronics,Electronics Accessories,Tablet
+1020_CId,147_PId,Rockford,IL,061109,PDA Cases,Electronics,Electronics Accessories,Mobile
+1003_CId,120_PId,Bridgeport,NJ,008014,Pajamas,Apparel & Accessories,Clothing,Desk
+1021_CId,119_PId,Aston,PA,019014,Nightgowns,Apparel & Accessories,Clothing,Mobile
+1013_CId,104_PId,Los Angeles,CA,090034,Cat Furniture,Animals & Pet Supplies,Pet Supplies,Desk
+1007_CId,139_PId,Chicago,IL,060632,Vital Signs Monitors,Business & Industrial,Medical,Tablet
+1027_CId,135_PId,Shawnee,KS,066218,Otoscopes & Ophthalmoscopes,Business & Industrial,Medical,Mobile
+1016_CId,118_PId,Phoenix,AZ,085013,Loungewear,Apparel & Accessories,Clothing,Mobile
+1017_CId,130_PId,Mc Minnville,TN,037110,Toy Craft Kits,Arts & Entertainment,Hobbies & Creative Arts,Tablet
+1015_CId,125_PId,Laredo,TX,078045,Incense Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Tablet
+1023_CId,106_PId,Irving,TX,075062,Cat Litter,Animals & Pet Supplies,Pet Supplies,Desk
+1006_CId,113_PId,Ashland,OH,044805,Japanese Black Formal Wear,Apparel & Accessories,Clothing,Mobile
+1030_CId,116_PId,Conroe,TX,077301,Religious Ceremonial Clothing,Apparel & Accessories,Clothing,Mobile
+1028_CId,139_PId,Easton,MD,021601,Vital Signs Monitors,Business & Industrial,Medical,Desk
+1008_CId,119_PId,San Jose,CA,095111,Nightgowns,Apparel & Accessories,Clothing,Desk
+1013_CId,129_PId,Los Angeles,CA,090034,Scrapbooking & Stamping Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1015_CId,116_PId,Laredo,TX,078045,Religious Ceremonial Clothing,Apparel & Accessories,Clothing,Mobile
+1027_CId,149_PId,Shawnee,KS,066218,Keyboard Trays & Platforms,Electronics,Electronics Accessories,Tablet
+1012_CId,138_PId,Middle Island,NY,011953,Vital Signs Monitor Accessories,Business & Industrial,Medical,Mobile
+1029_CId,149_PId,New York,NY,010011,Keyboard Trays & Platforms,Electronics,Electronics Accessories,Tablet
+1011_CId,140_PId,Kulpsville,PA,019443,Computer Accessory Sets,Electronics,Electronics Accessories,Mobile
+1009_CId,115_PId,Sioux Falls,SD,057105,Kimonos,Apparel & Accessories,Clothing,Mobile
+1030_CId,127_PId,Conroe,TX,077301,Mosaic Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1015_CId,117_PId,Laredo,TX,078045,Baptism,Apparel & Accessories,Clothing,Tablet
+1028_CId,135_PId,Easton,MD,021601,Otoscopes & Ophthalmoscopes,Business & Industrial,Medical,Tablet
+1017_CId,149_PId,Mc Minnville,TN,037110,Keyboard Trays & Platforms,Electronics,Electronics Accessories,Tablet
+1003_CId,117_PId,Bridgeport,NJ,008014,Baptism,Apparel & Accessories,Clothing,Desk
+1029_CId,133_PId,New York,NY,010011,Medical Reflex Hammers & Tuning Forks,Business & Industrial,Medical,Mobile
+1003_CId,144_PId,Bridgeport,NJ,008014,E-Book Reader Accessories,Electronics,Electronics Accessories,Mobile

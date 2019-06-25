@@ -1,0 +1,22 @@
+CustomerId,ProductId,City,State,ZipCode,Product,Category,SubCategory,Channel
+1024_CId,103_PId,Albany,NY,012204,Cat Food,Animals & Pet Supplies,Pet Supplies,Tablet
+1012_CId,148_PId,Middle Island,NY,011953,Keyboard & Mouse Wrist Rests,Electronics,Electronics Accessories,Tablet
+1022_CId,145_PId,San Jose,CA,095111,E-Book Reader Cases,Electronics,Electronics Accessories,Tablet
+1006_CId,113_PId,Ashland,OH,044805,Japanese Black Formal Wear,Apparel & Accessories,Clothing,Desk
+1012_CId,109_PId,Middle Island,NY,011953,Cat Litter Boxes,Animals & Pet Supplies,Pet Supplies,Mobile
+1008_CId,135_PId,San Jose,CA,095111,Otoscopes & Ophthalmoscopes,Business & Industrial,Medical,Mobile
+1006_CId,101_PId,Ashland,OH,044805,Cat Apparel,Animals & Pet Supplies,Pet Supplies,Mobile
+1015_CId,134_PId,Laredo,TX,078045,Medical Stretchers & Gurneys,Business & Industrial,Medical,Tablet
+1028_CId,134_PId,Easton,MD,021601,Medical Stretchers & Gurneys,Business & Industrial,Medical,Desk
+1018_CId,107_PId,Milwaukee,WI,053207,Cat Litter Box Liners,Animals & Pet Supplies,Pet Supplies,Mobile
+1010_CId,102_PId,Baltimore,MD,021224,Cat Beds,Animals & Pet Supplies,Pet Supplies,Desk
+1011_CId,106_PId,Kulpsville,PA,019443,Cat Litter,Animals & Pet Supplies,Pet Supplies,Mobile
+1020_CId,135_PId,Rockford,IL,061109,Otoscopes & Ophthalmoscopes,Business & Industrial,Medical,Tablet
+1011_CId,121_PId,Kulpsville,PA,019443,Robes,Apparel & Accessories,Clothing,Mobile
+1005_CId,133_PId,Hamilton,OH,045011,Medical Reflex Hammers & Tuning Forks,Business & Industrial,Medical,Tablet
+1011_CId,128_PId,Kulpsville,PA,019443,Needlecraft Kits,Arts & Entertainment,Hobbies & Creative Arts,Tablet
+1005_CId,108_PId,Hamilton,OH,045011,Cat Litter Box Mats,Animals & Pet Supplies,Pet Supplies,Tablet
+1001_CId,150_PId,New Orleans,LA,070116,Laptop Docking Stations,Electronics,Electronics Accessories,Mobile
+1027_CId,145_PId,Shawnee,KS,066218,E-Book Reader Cases,Electronics,Electronics Accessories,Mobile
+1004_CId,136_PId,Anchorage,AK,099501,Patient Lifts,Business & Industrial,Medical,Tablet
+1021_CId,107_PId,Aston,PA,019014,Cat Litter Box Liners,Animals & Pet Supplies,Pet Supplies,Desk

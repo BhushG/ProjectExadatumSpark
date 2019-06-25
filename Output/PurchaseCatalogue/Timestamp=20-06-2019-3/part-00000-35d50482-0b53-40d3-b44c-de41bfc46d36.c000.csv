@@ -1,0 +1,28 @@
+CustomerId,ProductId,City,State,ZipCode,Product,Category,SubCategory,Channel
+1019_CId,145_PId,Taylor,MI,048180,E-Book Reader Cases,Electronics,Electronics Accessories,Tablet
+1019_CId,143_PId,Taylor,MI,048180,Handheld Device Accessories,Electronics,Electronics Accessories,Tablet
+1019_CId,133_PId,Taylor,MI,048180,Medical Reflex Hammers & Tuning Forks,Business & Industrial,Medical,Tablet
+1003_CId,113_PId,Bridgeport,NJ,008014,Japanese Black Formal Wear,Apparel & Accessories,Clothing,Desk
+1003_CId,136_PId,Bridgeport,NJ,008014,Patient Lifts,Business & Industrial,Medical,Desk
+1003_CId,140_PId,Bridgeport,NJ,008014,Computer Accessory Sets,Electronics,Electronics Accessories,Desk
+1003_CId,111_PId,Bridgeport,NJ,008014,Dirndls,Apparel & Accessories,Clothing,Desk
+1003_CId,137_PId,Bridgeport,NJ,008014,Stethoscopes,Business & Industrial,Medical,Desk
+1004_CId,148_PId,Anchorage,AK,099501,Keyboard & Mouse Wrist Rests,Electronics,Electronics Accessories,Desk
+1004_CId,117_PId,Anchorage,AK,099501,Baptism,Apparel & Accessories,Clothing,Desk
+1004_CId,129_PId,Anchorage,AK,099501,Scrapbooking & Stamping Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1004_CId,114_PId,Anchorage,AK,099501,Kimono Outerwear,Apparel & Accessories,Clothing,Desk
+1018_CId,148_PId,Milwaukee,WI,053207,Keyboard & Mouse Wrist Rests,Electronics,Electronics Accessories,Tablet
+1018_CId,106_PId,Milwaukee,WI,053207,Cat Litter,Animals & Pet Supplies,Pet Supplies,Tablet
+1007_CId,135_PId,Chicago,IL,060632,Otoscopes & Ophthalmoscopes,Business & Industrial,Medical,Mobile
+1007_CId,106_PId,Chicago,IL,060632,Cat Litter,Animals & Pet Supplies,Pet Supplies,Mobile
+1022_CId,119_PId,San Jose,CA,095111,Nightgowns,Apparel & Accessories,Clothing,Mobile
+1022_CId,131_PId,San Jose,CA,095111,Automated External Defibrillators,Business & Industrial,Medical,Mobile
+1022_CId,108_PId,San Jose,CA,095111,Cat Litter Box Mats,Animals & Pet Supplies,Pet Supplies,Mobile
+1017_CId,103_PId,Mc Minnville,TN,037110,Cat Food,Animals & Pet Supplies,Pet Supplies,Tablet
+1017_CId,120_PId,Mc Minnville,TN,037110,Pajamas,Apparel & Accessories,Clothing,Tablet
+1017_CId,127_PId,Mc Minnville,TN,037110,Mosaic Kits,Arts & Entertainment,Hobbies & Creative Arts,Tablet
+1017_CId,102_PId,Mc Minnville,TN,037110,Cat Beds,Animals & Pet Supplies,Pet Supplies,Tablet
+1012_CId,137_PId,Middle Island,NY,011953,Stethoscopes,Business & Industrial,Medical,Desk
+1012_CId,135_PId,Middle Island,NY,011953,Otoscopes & Ophthalmoscopes,Business & Industrial,Medical,Desk
+1012_CId,115_PId,Middle Island,NY,011953,Kimonos,Apparel & Accessories,Clothing,Desk
+1012_CId,149_PId,Middle Island,NY,011953,Keyboard Trays & Platforms,Electronics,Electronics Accessories,Desk

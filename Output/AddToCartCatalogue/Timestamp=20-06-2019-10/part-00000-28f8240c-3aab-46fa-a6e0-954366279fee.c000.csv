@@ -1,0 +1,12 @@
+CustomerId,ProductId,City,State,ZipCode,Product,Category,SubCategory,Channel
+1025_CId,117_PId,Middlesex,NJ,008846,Baptism,Apparel & Accessories,Clothing,Desk
+1017_CId,103_PId,Mc Minnville,TN,037110,Cat Food,Animals & Pet Supplies,Pet Supplies,Mobile
+1003_CId,140_PId,Bridgeport,NJ,008014,Computer Accessory Sets,Electronics,Electronics Accessories,Mobile
+1023_CId,123_PId,Irving,TX,075062,Drawing & Painting Kits,Arts & Entertainment,Hobbies & Creative Arts,Tablet
+1017_CId,111_PId,Mc Minnville,TN,037110,Dirndls,Apparel & Accessories,Clothing,Mobile
+1018_CId,141_PId,Milwaukee,WI,053207,Computer Covers & Skins,Electronics,Electronics Accessories,Desk
+1009_CId,125_PId,Sioux Falls,SD,057105,Incense Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1029_CId,143_PId,New York,NY,010011,Handheld Device Accessories,Electronics,Electronics Accessories,Mobile
+1002_CId,129_PId,Brighton,MI,048116,Scrapbooking & Stamping Kits,Arts & Entertainment,Hobbies & Creative Arts,Tablet
+1004_CId,115_PId,Anchorage,AK,099501,Kimonos,Apparel & Accessories,Clothing,Desk
+1027_CId,112_PId,Shawnee,KS,066218,Hakama Trousers,Apparel & Accessories,Clothing,Mobile

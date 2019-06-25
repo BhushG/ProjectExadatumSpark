@@ -1,0 +1,10 @@
+CustomerId,ProductId,City,State,ZipCode,Product,Category,SubCategory,Channel
+1026_CId,124_PId,Stevens Point,WI,054481,Fabric Repair Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1027_CId,140_PId,Shawnee,KS,066218,Computer Accessory Sets,Electronics,Electronics Accessories,Tablet
+1006_CId,137_PId,Ashland,OH,044805,Stethoscopes,Business & Industrial,Medical,Mobile
+1017_CId,115_PId,Mc Minnville,TN,037110,Kimonos,Apparel & Accessories,Clothing,Mobile
+1010_CId,136_PId,Baltimore,MD,021224,Patient Lifts,Business & Industrial,Medical,Desk
+1007_CId,102_PId,Chicago,IL,060632,Cat Beds,Animals & Pet Supplies,Pet Supplies,Desk
+1023_CId,113_PId,Irving,TX,075062,Japanese Black Formal Wear,Apparel & Accessories,Clothing,Mobile
+1017_CId,117_PId,Mc Minnville,TN,037110,Baptism,Apparel & Accessories,Clothing,Tablet
+1014_CId,110_PId,Chagrin Falls,OH,044023,Cat Toys,Animals & Pet Supplies,Pet Supplies,Desk

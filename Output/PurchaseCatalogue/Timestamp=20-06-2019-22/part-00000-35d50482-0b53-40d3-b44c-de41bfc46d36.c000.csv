@@ -1,0 +1,39 @@
+CustomerId,ProductId,City,State,ZipCode,Product,Category,SubCategory,Channel
+1029_CId,113_PId,New York,NY,010011,Japanese Black Formal Wear,Apparel & Accessories,Clothing,Tablet
+1029_CId,118_PId,New York,NY,010011,Loungewear,Apparel & Accessories,Clothing,Tablet
+1029_CId,118_PId,New York,NY,010011,Loungewear,Apparel & Accessories,Clothing,Tablet
+1029_CId,141_PId,New York,NY,010011,Computer Covers & Skins,Electronics,Electronics Accessories,Tablet
+1008_CId,115_PId,San Jose,CA,095111,Kimonos,Apparel & Accessories,Clothing,Mobile
+1008_CId,127_PId,San Jose,CA,095111,Mosaic Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1008_CId,143_PId,San Jose,CA,095111,Handheld Device Accessories,Electronics,Electronics Accessories,Mobile
+1008_CId,135_PId,San Jose,CA,095111,Otoscopes & Ophthalmoscopes,Business & Industrial,Medical,Mobile
+1008_CId,117_PId,San Jose,CA,095111,Baptism,Apparel & Accessories,Clothing,Mobile
+1001_CId,107_PId,New Orleans,LA,070116,Cat Litter Box Liners,Animals & Pet Supplies,Pet Supplies,Desk
+1001_CId,112_PId,New Orleans,LA,070116,Hakama Trousers,Apparel & Accessories,Clothing,Desk
+1017_CId,135_PId,Mc Minnville,TN,037110,Otoscopes & Ophthalmoscopes,Business & Industrial,Medical,Mobile
+1017_CId,147_PId,Mc Minnville,TN,037110,PDA Cases,Electronics,Electronics Accessories,Mobile
+1016_CId,139_PId,Phoenix,AZ,085013,Vital Signs Monitors,Business & Industrial,Medical,Desk
+1016_CId,133_PId,Phoenix,AZ,085013,Medical Reflex Hammers & Tuning Forks,Business & Industrial,Medical,Desk
+1016_CId,130_PId,Phoenix,AZ,085013,Toy Craft Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1016_CId,108_PId,Phoenix,AZ,085013,Cat Litter Box Mats,Animals & Pet Supplies,Pet Supplies,Desk
+1007_CId,124_PId,Chicago,IL,060632,Fabric Repair Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1007_CId,101_PId,Chicago,IL,060632,Cat Apparel,Animals & Pet Supplies,Pet Supplies,Desk
+1007_CId,106_PId,Chicago,IL,060632,Cat Litter,Animals & Pet Supplies,Pet Supplies,Desk
+1014_CId,108_PId,Chagrin Falls,OH,044023,Cat Litter Box Mats,Animals & Pet Supplies,Pet Supplies,Tablet
+1014_CId,129_PId,Chagrin Falls,OH,044023,Scrapbooking & Stamping Kits,Arts & Entertainment,Hobbies & Creative Arts,Tablet
+1014_CId,121_PId,Chagrin Falls,OH,044023,Robes,Apparel & Accessories,Clothing,Tablet
+1005_CId,130_PId,Hamilton,OH,045011,Toy Craft Kits,Arts & Entertainment,Hobbies & Creative Arts,Tablet
+1005_CId,129_PId,Hamilton,OH,045011,Scrapbooking & Stamping Kits,Arts & Entertainment,Hobbies & Creative Arts,Tablet
+1003_CId,134_PId,Bridgeport,NJ,008014,Medical Stretchers & Gurneys,Business & Industrial,Medical,Mobile
+1003_CId,110_PId,Bridgeport,NJ,008014,Cat Toys,Animals & Pet Supplies,Pet Supplies,Mobile
+1003_CId,126_PId,Bridgeport,NJ,008014,Jewelry Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1003_CId,117_PId,Bridgeport,NJ,008014,Baptism,Apparel & Accessories,Clothing,Mobile
+1003_CId,125_PId,Bridgeport,NJ,008014,Incense Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1026_CId,105_PId,Stevens Point,WI,054481,Cat Furniture Accessories,Animals & Pet Supplies,Pet Supplies,Desk
+1026_CId,113_PId,Stevens Point,WI,054481,Japanese Black Formal Wear,Apparel & Accessories,Clothing,Desk
+1026_CId,148_PId,Stevens Point,WI,054481,Keyboard & Mouse Wrist Rests,Electronics,Electronics Accessories,Desk
+1026_CId,132_PId,Stevens Point,WI,054481,Gait Belts,Business & Industrial,Medical,Desk
+1030_CId,122_PId,Conroe,TX,077301,Candle Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1030_CId,112_PId,Conroe,TX,077301,Hakama Trousers,Apparel & Accessories,Clothing,Mobile
+1018_CId,101_PId,Milwaukee,WI,053207,Cat Apparel,Animals & Pet Supplies,Pet Supplies,Mobile
+1018_CId,134_PId,Milwaukee,WI,053207,Medical Stretchers & Gurneys,Business & Industrial,Medical,Mobile

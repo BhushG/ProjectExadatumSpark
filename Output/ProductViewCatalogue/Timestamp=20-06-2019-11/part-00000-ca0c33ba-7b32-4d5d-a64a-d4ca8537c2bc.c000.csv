@@ -1,0 +1,19 @@
+CustomerId,ProductId,City,State,ZipCode,Product,Category,SubCategory,Channel
+1002_CId,111_PId,Brighton,MI,048116,Dirndls,Apparel & Accessories,Clothing,Mobile
+1003_CId,131_PId,Bridgeport,NJ,008014,Automated External Defibrillators,Business & Industrial,Medical,Tablet
+1022_CId,123_PId,San Jose,CA,095111,Drawing & Painting Kits,Arts & Entertainment,Hobbies & Creative Arts,Tablet
+1027_CId,126_PId,Shawnee,KS,066218,Jewelry Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Tablet
+1028_CId,147_PId,Easton,MD,021601,PDA Cases,Electronics,Electronics Accessories,Tablet
+1011_CId,117_PId,Kulpsville,PA,019443,Baptism,Apparel & Accessories,Clothing,Desk
+1003_CId,105_PId,Bridgeport,NJ,008014,Cat Furniture Accessories,Animals & Pet Supplies,Pet Supplies,Desk
+1026_CId,127_PId,Stevens Point,WI,054481,Mosaic Kits,Arts & Entertainment,Hobbies & Creative Arts,Tablet
+1028_CId,150_PId,Easton,MD,021601,Laptop Docking Stations,Electronics,Electronics Accessories,Desk
+1018_CId,130_PId,Milwaukee,WI,053207,Toy Craft Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1023_CId,130_PId,Irving,TX,075062,Toy Craft Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1012_CId,115_PId,Middle Island,NY,011953,Kimonos,Apparel & Accessories,Clothing,Desk
+1001_CId,120_PId,New Orleans,LA,070116,Pajamas,Apparel & Accessories,Clothing,Desk
+1005_CId,125_PId,Hamilton,OH,045011,Incense Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1013_CId,105_PId,Los Angeles,CA,090034,Cat Furniture Accessories,Animals & Pet Supplies,Pet Supplies,Mobile
+1019_CId,114_PId,Taylor,MI,048180,Kimono Outerwear,Apparel & Accessories,Clothing,Tablet
+1024_CId,146_PId,Albany,NY,012204,PDA Accessories,Electronics,Electronics Accessories,Mobile
+1019_CId,117_PId,Taylor,MI,048180,Baptism,Apparel & Accessories,Clothing,Mobile

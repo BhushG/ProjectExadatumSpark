@@ -1,0 +1,11 @@
+CustomerId,ProductId,City,State,ZipCode,Product,Category,SubCategory,Channel
+1016_CId,134_PId,Phoenix,AZ,085013,Medical Stretchers & Gurneys,Business & Industrial,Medical,Desk
+1012_CId,112_PId,Middle Island,NY,011953,Hakama Trousers,Apparel & Accessories,Clothing,Mobile
+1021_CId,124_PId,Aston,PA,019014,Fabric Repair Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1029_CId,128_PId,New York,NY,010011,Needlecraft Kits,Arts & Entertainment,Hobbies & Creative Arts,Tablet
+1012_CId,138_PId,Middle Island,NY,011953,Vital Signs Monitor Accessories,Business & Industrial,Medical,Mobile
+1028_CId,105_PId,Easton,MD,021601,Cat Furniture Accessories,Animals & Pet Supplies,Pet Supplies,Mobile
+1012_CId,121_PId,Middle Island,NY,011953,Robes,Apparel & Accessories,Clothing,Tablet
+1024_CId,146_PId,Albany,NY,012204,PDA Accessories,Electronics,Electronics Accessories,Tablet
+1009_CId,141_PId,Sioux Falls,SD,057105,Computer Covers & Skins,Electronics,Electronics Accessories,Tablet
+1001_CId,138_PId,New Orleans,LA,070116,Vital Signs Monitor Accessories,Business & Industrial,Medical,Mobile

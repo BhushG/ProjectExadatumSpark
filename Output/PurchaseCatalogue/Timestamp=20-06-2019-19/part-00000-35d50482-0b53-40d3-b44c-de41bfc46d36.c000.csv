@@ -1,0 +1,52 @@
+CustomerId,ProductId,City,State,ZipCode,Product,Category,SubCategory,Channel
+1014_CId,127_PId,Chagrin Falls,OH,044023,Mosaic Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1014_CId,147_PId,Chagrin Falls,OH,044023,PDA Cases,Electronics,Electronics Accessories,Mobile
+1014_CId,104_PId,Chagrin Falls,OH,044023,Cat Furniture,Animals & Pet Supplies,Pet Supplies,Mobile
+1014_CId,136_PId,Chagrin Falls,OH,044023,Patient Lifts,Business & Industrial,Medical,Mobile
+1014_CId,149_PId,Chagrin Falls,OH,044023,Keyboard Trays & Platforms,Electronics,Electronics Accessories,Mobile
+1013_CId,125_PId,Los Angeles,CA,090034,Incense Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1013_CId,125_PId,Los Angeles,CA,090034,Incense Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1013_CId,116_PId,Los Angeles,CA,090034,Religious Ceremonial Clothing,Apparel & Accessories,Clothing,Mobile
+1019_CId,119_PId,Taylor,MI,048180,Nightgowns,Apparel & Accessories,Clothing,Tablet
+1019_CId,106_PId,Taylor,MI,048180,Cat Litter,Animals & Pet Supplies,Pet Supplies,Tablet
+1019_CId,118_PId,Taylor,MI,048180,Loungewear,Apparel & Accessories,Clothing,Tablet
+1019_CId,134_PId,Taylor,MI,048180,Medical Stretchers & Gurneys,Business & Industrial,Medical,Tablet
+1029_CId,129_PId,New York,NY,010011,Scrapbooking & Stamping Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1029_CId,133_PId,New York,NY,010011,Medical Reflex Hammers & Tuning Forks,Business & Industrial,Medical,Desk
+1029_CId,139_PId,New York,NY,010011,Vital Signs Monitors,Business & Industrial,Medical,Desk
+1029_CId,148_PId,New York,NY,010011,Keyboard & Mouse Wrist Rests,Electronics,Electronics Accessories,Desk
+1002_CId,114_PId,Brighton,MI,048116,Kimono Outerwear,Apparel & Accessories,Clothing,Desk
+1002_CId,110_PId,Brighton,MI,048116,Cat Toys,Animals & Pet Supplies,Pet Supplies,Desk
+1002_CId,106_PId,Brighton,MI,048116,Cat Litter,Animals & Pet Supplies,Pet Supplies,Mobile
+1002_CId,108_PId,Brighton,MI,048116,Cat Litter Box Mats,Animals & Pet Supplies,Pet Supplies,Mobile
+1002_CId,135_PId,Brighton,MI,048116,Otoscopes & Ophthalmoscopes,Business & Industrial,Medical,Mobile
+1002_CId,134_PId,Brighton,MI,048116,Medical Stretchers & Gurneys,Business & Industrial,Medical,Mobile
+1025_CId,150_PId,Middlesex,NJ,008846,Laptop Docking Stations,Electronics,Electronics Accessories,Mobile
+1025_CId,111_PId,Middlesex,NJ,008846,Dirndls,Apparel & Accessories,Clothing,Mobile
+1025_CId,135_PId,Middlesex,NJ,008846,Otoscopes & Ophthalmoscopes,Business & Industrial,Medical,Mobile
+1025_CId,145_PId,Middlesex,NJ,008846,E-Book Reader Cases,Electronics,Electronics Accessories,Mobile
+1025_CId,138_PId,Middlesex,NJ,008846,Vital Signs Monitor Accessories,Business & Industrial,Medical,Mobile
+1025_CId,112_PId,Middlesex,NJ,008846,Hakama Trousers,Apparel & Accessories,Clothing,Mobile
+1025_CId,102_PId,Middlesex,NJ,008846,Cat Beds,Animals & Pet Supplies,Pet Supplies,Mobile
+1025_CId,147_PId,Middlesex,NJ,008846,PDA Cases,Electronics,Electronics Accessories,Mobile
+1025_CId,147_PId,Middlesex,NJ,008846,PDA Cases,Electronics,Electronics Accessories,Mobile
+1016_CId,112_PId,Phoenix,AZ,085013,Hakama Trousers,Apparel & Accessories,Clothing,Mobile
+1016_CId,108_PId,Phoenix,AZ,085013,Cat Litter Box Mats,Animals & Pet Supplies,Pet Supplies,Mobile
+1016_CId,136_PId,Phoenix,AZ,085013,Patient Lifts,Business & Industrial,Medical,Mobile
+1016_CId,131_PId,Phoenix,AZ,085013,Automated External Defibrillators,Business & Industrial,Medical,Mobile
+1009_CId,136_PId,Sioux Falls,SD,057105,Patient Lifts,Business & Industrial,Medical,Mobile
+1009_CId,137_PId,Sioux Falls,SD,057105,Stethoscopes,Business & Industrial,Medical,Mobile
+1009_CId,110_PId,Sioux Falls,SD,057105,Cat Toys,Animals & Pet Supplies,Pet Supplies,Mobile
+1009_CId,139_PId,Sioux Falls,SD,057105,Vital Signs Monitors,Business & Industrial,Medical,Mobile
+1014_CId,103_PId,Chagrin Falls,OH,044023,Cat Food,Animals & Pet Supplies,Pet Supplies,Tablet
+1014_CId,148_PId,Chagrin Falls,OH,044023,Keyboard & Mouse Wrist Rests,Electronics,Electronics Accessories,Tablet
+1014_CId,118_PId,Chagrin Falls,OH,044023,Loungewear,Apparel & Accessories,Clothing,Tablet
+1018_CId,134_PId,Milwaukee,WI,053207,Medical Stretchers & Gurneys,Business & Industrial,Medical,Mobile
+1018_CId,149_PId,Milwaukee,WI,053207,Keyboard Trays & Platforms,Electronics,Electronics Accessories,Mobile
+1018_CId,149_PId,Milwaukee,WI,053207,Keyboard Trays & Platforms,Electronics,Electronics Accessories,Mobile
+1004_CId,140_PId,Anchorage,AK,099501,Computer Accessory Sets,Electronics,Electronics Accessories,Desk
+1004_CId,106_PId,Anchorage,AK,099501,Cat Litter,Animals & Pet Supplies,Pet Supplies,Desk
+1004_CId,110_PId,Anchorage,AK,099501,Cat Toys,Animals & Pet Supplies,Pet Supplies,Desk
+1004_CId,108_PId,Anchorage,AK,099501,Cat Litter Box Mats,Animals & Pet Supplies,Pet Supplies,Desk
+1015_CId,120_PId,Laredo,TX,078045,Pajamas,Apparel & Accessories,Clothing,Desk
+1015_CId,138_PId,Laredo,TX,078045,Vital Signs Monitor Accessories,Business & Industrial,Medical,Desk

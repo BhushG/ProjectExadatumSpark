@@ -1,0 +1,18 @@
+CustomerId,ProductId,City,State,ZipCode,Product,Category,SubCategory,Channel
+1029_CId,127_PId,New York,NY,010011,Mosaic Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1027_CId,112_PId,Shawnee,KS,066218,Hakama Trousers,Apparel & Accessories,Clothing,Tablet
+1018_CId,119_PId,Milwaukee,WI,053207,Nightgowns,Apparel & Accessories,Clothing,Desk
+1005_CId,148_PId,Hamilton,OH,045011,Keyboard & Mouse Wrist Rests,Electronics,Electronics Accessories,Tablet
+1002_CId,113_PId,Brighton,MI,048116,Japanese Black Formal Wear,Apparel & Accessories,Clothing,Tablet
+1007_CId,132_PId,Chicago,IL,060632,Gait Belts,Business & Industrial,Medical,Tablet
+1010_CId,107_PId,Baltimore,MD,021224,Cat Litter Box Liners,Animals & Pet Supplies,Pet Supplies,Mobile
+1021_CId,139_PId,Aston,PA,019014,Vital Signs Monitors,Business & Industrial,Medical,Mobile
+1015_CId,133_PId,Laredo,TX,078045,Medical Reflex Hammers & Tuning Forks,Business & Industrial,Medical,Mobile
+1019_CId,150_PId,Taylor,MI,048180,Laptop Docking Stations,Electronics,Electronics Accessories,Tablet
+1006_CId,115_PId,Ashland,OH,044805,Kimonos,Apparel & Accessories,Clothing,Mobile
+1013_CId,129_PId,Los Angeles,CA,090034,Scrapbooking & Stamping Kits,Arts & Entertainment,Hobbies & Creative Arts,Tablet
+1010_CId,130_PId,Baltimore,MD,021224,Toy Craft Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1020_CId,127_PId,Rockford,IL,061109,Mosaic Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1030_CId,106_PId,Conroe,TX,077301,Cat Litter,Animals & Pet Supplies,Pet Supplies,Mobile
+1007_CId,146_PId,Chicago,IL,060632,PDA Accessories,Electronics,Electronics Accessories,Desk
+1023_CId,124_PId,Irving,TX,075062,Fabric Repair Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile

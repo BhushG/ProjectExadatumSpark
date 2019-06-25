@@ -1,0 +1,37 @@
+CustomerId,ProductId,City,State,ZipCode,Product,Category,SubCategory,Channel
+1020_CId,105_PId,Rockford,IL,061109,Cat Furniture Accessories,Animals & Pet Supplies,Pet Supplies,Tablet
+1020_CId,115_PId,Rockford,IL,061109,Kimonos,Apparel & Accessories,Clothing,Tablet
+1020_CId,146_PId,Rockford,IL,061109,PDA Accessories,Electronics,Electronics Accessories,Tablet
+1020_CId,122_PId,Rockford,IL,061109,Candle Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Tablet
+1020_CId,115_PId,Rockford,IL,061109,Kimonos,Apparel & Accessories,Clothing,Tablet
+1006_CId,101_PId,Ashland,OH,044805,Cat Apparel,Animals & Pet Supplies,Pet Supplies,Tablet
+1006_CId,136_PId,Ashland,OH,044805,Patient Lifts,Business & Industrial,Medical,Tablet
+1009_CId,116_PId,Sioux Falls,SD,057105,Religious Ceremonial Clothing,Apparel & Accessories,Clothing,Mobile
+1009_CId,119_PId,Sioux Falls,SD,057105,Nightgowns,Apparel & Accessories,Clothing,Mobile
+1009_CId,133_PId,Sioux Falls,SD,057105,Medical Reflex Hammers & Tuning Forks,Business & Industrial,Medical,Mobile
+1009_CId,138_PId,Sioux Falls,SD,057105,Vital Signs Monitor Accessories,Business & Industrial,Medical,Mobile
+1002_CId,150_PId,Brighton,MI,048116,Laptop Docking Stations,Electronics,Electronics Accessories,Tablet
+1002_CId,115_PId,Brighton,MI,048116,Kimonos,Apparel & Accessories,Clothing,Tablet
+1002_CId,112_PId,Brighton,MI,048116,Hakama Trousers,Apparel & Accessories,Clothing,Tablet
+1002_CId,139_PId,Brighton,MI,048116,Vital Signs Monitors,Business & Industrial,Medical,Tablet
+1024_CId,141_PId,Albany,NY,012204,Computer Covers & Skins,Electronics,Electronics Accessories,Tablet
+1024_CId,101_PId,Albany,NY,012204,Cat Apparel,Animals & Pet Supplies,Pet Supplies,Tablet
+1024_CId,136_PId,Albany,NY,012204,Patient Lifts,Business & Industrial,Medical,Tablet
+1024_CId,140_PId,Albany,NY,012204,Computer Accessory Sets,Electronics,Electronics Accessories,Tablet
+1024_CId,113_PId,Albany,NY,012204,Japanese Black Formal Wear,Apparel & Accessories,Clothing,Tablet
+1012_CId,131_PId,Middle Island,NY,011953,Automated External Defibrillators,Business & Industrial,Medical,Desk
+1012_CId,104_PId,Middle Island,NY,011953,Cat Furniture,Animals & Pet Supplies,Pet Supplies,Desk
+1012_CId,140_PId,Middle Island,NY,011953,Computer Accessory Sets,Electronics,Electronics Accessories,Desk
+1012_CId,112_PId,Middle Island,NY,011953,Hakama Trousers,Apparel & Accessories,Clothing,Desk
+1007_CId,150_PId,Chicago,IL,060632,Laptop Docking Stations,Electronics,Electronics Accessories,Desk
+1007_CId,142_PId,Chicago,IL,060632,Computer Risers & Stands,Electronics,Electronics Accessories,Desk
+1007_CId,111_PId,Chicago,IL,060632,Dirndls,Apparel & Accessories,Clothing,Desk
+1007_CId,106_PId,Chicago,IL,060632,Cat Litter,Animals & Pet Supplies,Pet Supplies,Desk
+1004_CId,120_PId,Anchorage,AK,099501,Pajamas,Apparel & Accessories,Clothing,Desk
+1004_CId,135_PId,Anchorage,AK,099501,Otoscopes & Ophthalmoscopes,Business & Industrial,Medical,Desk
+1004_CId,145_PId,Anchorage,AK,099501,E-Book Reader Cases,Electronics,Electronics Accessories,Desk
+1004_CId,102_PId,Anchorage,AK,099501,Cat Beds,Animals & Pet Supplies,Pet Supplies,Desk
+1029_CId,103_PId,New York,NY,010011,Cat Food,Animals & Pet Supplies,Pet Supplies,Tablet
+1029_CId,148_PId,New York,NY,010011,Keyboard & Mouse Wrist Rests,Electronics,Electronics Accessories,Tablet
+1030_CId,110_PId,Conroe,TX,077301,Cat Toys,Animals & Pet Supplies,Pet Supplies,Tablet
+1030_CId,109_PId,Conroe,TX,077301,Cat Litter Boxes,Animals & Pet Supplies,Pet Supplies,Tablet

@@ -1,0 +1,33 @@
+CustomerId,ProductId,City,State,ZipCode,Product,Category,SubCategory,Channel
+1010_CId,148_PId,Baltimore,MD,021224,Keyboard & Mouse Wrist Rests,Electronics,Electronics Accessories,Mobile
+1010_CId,141_PId,Baltimore,MD,021224,Computer Covers & Skins,Electronics,Electronics Accessories,Mobile
+1012_CId,145_PId,Middle Island,NY,011953,E-Book Reader Cases,Electronics,Electronics Accessories,Tablet
+1012_CId,130_PId,Middle Island,NY,011953,Toy Craft Kits,Arts & Entertainment,Hobbies & Creative Arts,Tablet
+1012_CId,127_PId,Middle Island,NY,011953,Mosaic Kits,Arts & Entertainment,Hobbies & Creative Arts,Tablet
+1012_CId,134_PId,Middle Island,NY,011953,Medical Stretchers & Gurneys,Business & Industrial,Medical,Tablet
+1012_CId,144_PId,Middle Island,NY,011953,E-Book Reader Accessories,Electronics,Electronics Accessories,Tablet
+1029_CId,114_PId,New York,NY,010011,Kimono Outerwear,Apparel & Accessories,Clothing,Desk
+1029_CId,106_PId,New York,NY,010011,Cat Litter,Animals & Pet Supplies,Pet Supplies,Desk
+1029_CId,116_PId,New York,NY,010011,Religious Ceremonial Clothing,Apparel & Accessories,Clothing,Desk
+1029_CId,105_PId,New York,NY,010011,Cat Furniture Accessories,Animals & Pet Supplies,Pet Supplies,Mobile
+1029_CId,116_PId,New York,NY,010011,Religious Ceremonial Clothing,Apparel & Accessories,Clothing,Mobile
+1029_CId,132_PId,New York,NY,010011,Gait Belts,Business & Industrial,Medical,Mobile
+1029_CId,118_PId,New York,NY,010011,Loungewear,Apparel & Accessories,Clothing,Mobile
+1029_CId,136_PId,New York,NY,010011,Patient Lifts,Business & Industrial,Medical,Mobile
+1012_CId,105_PId,Middle Island,NY,011953,Cat Furniture Accessories,Animals & Pet Supplies,Pet Supplies,Desk
+1012_CId,115_PId,Middle Island,NY,011953,Kimonos,Apparel & Accessories,Clothing,Desk
+1012_CId,134_PId,Middle Island,NY,011953,Medical Stretchers & Gurneys,Business & Industrial,Medical,Desk
+1020_CId,123_PId,Rockford,IL,061109,Drawing & Painting Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1020_CId,118_PId,Rockford,IL,061109,Loungewear,Apparel & Accessories,Clothing,Desk
+1029_CId,140_PId,New York,NY,010011,Computer Accessory Sets,Electronics,Electronics Accessories,Mobile
+1029_CId,111_PId,New York,NY,010011,Dirndls,Apparel & Accessories,Clothing,Mobile
+1015_CId,126_PId,Laredo,TX,078045,Jewelry Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1015_CId,125_PId,Laredo,TX,078045,Incense Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1015_CId,142_PId,Laredo,TX,078045,Computer Risers & Stands,Electronics,Electronics Accessories,Mobile
+1015_CId,114_PId,Laredo,TX,078045,Kimono Outerwear,Apparel & Accessories,Clothing,Mobile
+1015_CId,150_PId,Laredo,TX,078045,Laptop Docking Stations,Electronics,Electronics Accessories,Mobile
+1013_CId,128_PId,Los Angeles,CA,090034,Needlecraft Kits,Arts & Entertainment,Hobbies & Creative Arts,Tablet
+1013_CId,112_PId,Los Angeles,CA,090034,Hakama Trousers,Apparel & Accessories,Clothing,Tablet
+1013_CId,117_PId,Los Angeles,CA,090034,Baptism,Apparel & Accessories,Clothing,Tablet
+1013_CId,131_PId,Los Angeles,CA,090034,Automated External Defibrillators,Business & Industrial,Medical,Tablet
+1013_CId,149_PId,Los Angeles,CA,090034,Keyboard Trays & Platforms,Electronics,Electronics Accessories,Tablet

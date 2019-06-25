@@ -1,0 +1,34 @@
+CustomerId,ProductId,City,State,ZipCode,Product,Category,SubCategory,Channel
+1012_CId,106_PId,Middle Island,NY,011953,Cat Litter,Animals & Pet Supplies,Pet Supplies,Mobile
+1012_CId,102_PId,Middle Island,NY,011953,Cat Beds,Animals & Pet Supplies,Pet Supplies,Mobile
+1012_CId,103_PId,Middle Island,NY,011953,Cat Food,Animals & Pet Supplies,Pet Supplies,Mobile
+1012_CId,111_PId,Middle Island,NY,011953,Dirndls,Apparel & Accessories,Clothing,Mobile
+1003_CId,111_PId,Bridgeport,NJ,008014,Dirndls,Apparel & Accessories,Clothing,Desk
+1003_CId,107_PId,Bridgeport,NJ,008014,Cat Litter Box Liners,Animals & Pet Supplies,Pet Supplies,Desk
+1003_CId,115_PId,Bridgeport,NJ,008014,Kimonos,Apparel & Accessories,Clothing,Desk
+1001_CId,134_PId,New Orleans,LA,070116,Medical Stretchers & Gurneys,Business & Industrial,Medical,Tablet
+1001_CId,142_PId,New Orleans,LA,070116,Computer Risers & Stands,Electronics,Electronics Accessories,Tablet
+1030_CId,124_PId,Conroe,TX,077301,Fabric Repair Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1030_CId,117_PId,Conroe,TX,077301,Baptism,Apparel & Accessories,Clothing,Mobile
+1013_CId,117_PId,Los Angeles,CA,090034,Baptism,Apparel & Accessories,Clothing,Tablet
+1013_CId,150_PId,Los Angeles,CA,090034,Laptop Docking Stations,Electronics,Electronics Accessories,Tablet
+1015_CId,104_PId,Laredo,TX,078045,Cat Furniture,Animals & Pet Supplies,Pet Supplies,Mobile
+1015_CId,113_PId,Laredo,TX,078045,Japanese Black Formal Wear,Apparel & Accessories,Clothing,Mobile
+1015_CId,134_PId,Laredo,TX,078045,Medical Stretchers & Gurneys,Business & Industrial,Medical,Mobile
+1015_CId,137_PId,Laredo,TX,078045,Stethoscopes,Business & Industrial,Medical,Mobile
+1015_CId,109_PId,Laredo,TX,078045,Cat Litter Boxes,Animals & Pet Supplies,Pet Supplies,Mobile
+1026_CId,104_PId,Stevens Point,WI,054481,Cat Furniture,Animals & Pet Supplies,Pet Supplies,Tablet
+1026_CId,123_PId,Stevens Point,WI,054481,Drawing & Painting Kits,Arts & Entertainment,Hobbies & Creative Arts,Tablet
+1011_CId,138_PId,Kulpsville,PA,019443,Vital Signs Monitor Accessories,Business & Industrial,Medical,Mobile
+1011_CId,116_PId,Kulpsville,PA,019443,Religious Ceremonial Clothing,Apparel & Accessories,Clothing,Mobile
+1011_CId,110_PId,Kulpsville,PA,019443,Cat Toys,Animals & Pet Supplies,Pet Supplies,Mobile
+1017_CId,118_PId,Mc Minnville,TN,037110,Loungewear,Apparel & Accessories,Clothing,Mobile
+1017_CId,111_PId,Mc Minnville,TN,037110,Dirndls,Apparel & Accessories,Clothing,Mobile
+1017_CId,147_PId,Mc Minnville,TN,037110,PDA Cases,Electronics,Electronics Accessories,Mobile
+1017_CId,131_PId,Mc Minnville,TN,037110,Automated External Defibrillators,Business & Industrial,Medical,Mobile
+1017_CId,101_PId,Mc Minnville,TN,037110,Cat Apparel,Animals & Pet Supplies,Pet Supplies,Mobile
+1013_CId,114_PId,Los Angeles,CA,090034,Kimono Outerwear,Apparel & Accessories,Clothing,Tablet
+1013_CId,135_PId,Los Angeles,CA,090034,Otoscopes & Ophthalmoscopes,Business & Industrial,Medical,Tablet
+1019_CId,134_PId,Taylor,MI,048180,Medical Stretchers & Gurneys,Business & Industrial,Medical,Desk
+1019_CId,141_PId,Taylor,MI,048180,Computer Covers & Skins,Electronics,Electronics Accessories,Desk
+1019_CId,126_PId,Taylor,MI,048180,Jewelry Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk

@@ -1,0 +1,21 @@
+CustomerId,ProductId,City,State,ZipCode,Product,Category,SubCategory,Channel
+1023_CId,107_PId,Irving,TX,075062,Cat Litter Box Liners,Animals & Pet Supplies,Pet Supplies,Tablet
+1015_CId,107_PId,Laredo,TX,078045,Cat Litter Box Liners,Animals & Pet Supplies,Pet Supplies,Desk
+1008_CId,127_PId,San Jose,CA,095111,Mosaic Kits,Arts & Entertainment,Hobbies & Creative Arts,Tablet
+1006_CId,110_PId,Ashland,OH,044805,Cat Toys,Animals & Pet Supplies,Pet Supplies,Tablet
+1012_CId,136_PId,Middle Island,NY,011953,Patient Lifts,Business & Industrial,Medical,Desk
+1011_CId,126_PId,Kulpsville,PA,019443,Jewelry Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Tablet
+1030_CId,107_PId,Conroe,TX,077301,Cat Litter Box Liners,Animals & Pet Supplies,Pet Supplies,Mobile
+1013_CId,118_PId,Los Angeles,CA,090034,Loungewear,Apparel & Accessories,Clothing,Mobile
+1005_CId,134_PId,Hamilton,OH,045011,Medical Stretchers & Gurneys,Business & Industrial,Medical,Desk
+1029_CId,140_PId,New York,NY,010011,Computer Accessory Sets,Electronics,Electronics Accessories,Desk
+1021_CId,137_PId,Aston,PA,019014,Stethoscopes,Business & Industrial,Medical,Mobile
+1016_CId,104_PId,Phoenix,AZ,085013,Cat Furniture,Animals & Pet Supplies,Pet Supplies,Desk
+1019_CId,143_PId,Taylor,MI,048180,Handheld Device Accessories,Electronics,Electronics Accessories,Mobile
+1017_CId,141_PId,Mc Minnville,TN,037110,Computer Covers & Skins,Electronics,Electronics Accessories,Mobile
+1025_CId,110_PId,Middlesex,NJ,008846,Cat Toys,Animals & Pet Supplies,Pet Supplies,Tablet
+1002_CId,102_PId,Brighton,MI,048116,Cat Beds,Animals & Pet Supplies,Pet Supplies,Tablet
+1021_CId,130_PId,Aston,PA,019014,Toy Craft Kits,Arts & Entertainment,Hobbies & Creative Arts,Tablet
+1004_CId,104_PId,Anchorage,AK,099501,Cat Furniture,Animals & Pet Supplies,Pet Supplies,Mobile
+1001_CId,104_PId,New Orleans,LA,070116,Cat Furniture,Animals & Pet Supplies,Pet Supplies,Desk
+1010_CId,150_PId,Baltimore,MD,021224,Laptop Docking Stations,Electronics,Electronics Accessories,Tablet

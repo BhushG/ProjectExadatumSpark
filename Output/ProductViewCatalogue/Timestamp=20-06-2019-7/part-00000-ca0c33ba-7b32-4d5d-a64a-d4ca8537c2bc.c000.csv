@@ -1,0 +1,27 @@
+CustomerId,ProductId,City,State,ZipCode,Product,Category,SubCategory,Channel
+1016_CId,130_PId,Phoenix,AZ,085013,Toy Craft Kits,Arts & Entertainment,Hobbies & Creative Arts,Tablet
+1017_CId,102_PId,Mc Minnville,TN,037110,Cat Beds,Animals & Pet Supplies,Pet Supplies,Tablet
+1023_CId,122_PId,Irving,TX,075062,Candle Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Tablet
+1013_CId,149_PId,Los Angeles,CA,090034,Keyboard Trays & Platforms,Electronics,Electronics Accessories,Mobile
+1025_CId,120_PId,Middlesex,NJ,008846,Pajamas,Apparel & Accessories,Clothing,Desk
+1009_CId,135_PId,Sioux Falls,SD,057105,Otoscopes & Ophthalmoscopes,Business & Industrial,Medical,Tablet
+1007_CId,125_PId,Chicago,IL,060632,Incense Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1025_CId,105_PId,Middlesex,NJ,008846,Cat Furniture Accessories,Animals & Pet Supplies,Pet Supplies,Desk
+1005_CId,126_PId,Hamilton,OH,045011,Jewelry Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1001_CId,104_PId,New Orleans,LA,070116,Cat Furniture,Animals & Pet Supplies,Pet Supplies,Mobile
+1007_CId,139_PId,Chicago,IL,060632,Vital Signs Monitors,Business & Industrial,Medical,Mobile
+1013_CId,150_PId,Los Angeles,CA,090034,Laptop Docking Stations,Electronics,Electronics Accessories,Desk
+1016_CId,128_PId,Phoenix,AZ,085013,Needlecraft Kits,Arts & Entertainment,Hobbies & Creative Arts,Tablet
+1023_CId,150_PId,Irving,TX,075062,Laptop Docking Stations,Electronics,Electronics Accessories,Desk
+1024_CId,121_PId,Albany,NY,012204,Robes,Apparel & Accessories,Clothing,Mobile
+1025_CId,121_PId,Middlesex,NJ,008846,Robes,Apparel & Accessories,Clothing,Desk
+1002_CId,126_PId,Brighton,MI,048116,Jewelry Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1019_CId,119_PId,Taylor,MI,048180,Nightgowns,Apparel & Accessories,Clothing,Mobile
+1017_CId,134_PId,Mc Minnville,TN,037110,Medical Stretchers & Gurneys,Business & Industrial,Medical,Desk
+1006_CId,107_PId,Ashland,OH,044805,Cat Litter Box Liners,Animals & Pet Supplies,Pet Supplies,Tablet
+1029_CId,130_PId,New York,NY,010011,Toy Craft Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1024_CId,104_PId,Albany,NY,012204,Cat Furniture,Animals & Pet Supplies,Pet Supplies,Mobile
+1007_CId,140_PId,Chicago,IL,060632,Computer Accessory Sets,Electronics,Electronics Accessories,Tablet
+1006_CId,138_PId,Ashland,OH,044805,Vital Signs Monitor Accessories,Business & Industrial,Medical,Mobile
+1021_CId,118_PId,Aston,PA,019014,Loungewear,Apparel & Accessories,Clothing,Tablet
+1012_CId,145_PId,Middle Island,NY,011953,E-Book Reader Cases,Electronics,Electronics Accessories,Desk

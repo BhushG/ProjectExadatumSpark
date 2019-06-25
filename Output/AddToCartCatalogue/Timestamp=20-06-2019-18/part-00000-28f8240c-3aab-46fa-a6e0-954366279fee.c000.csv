@@ -1,0 +1,8 @@
+CustomerId,ProductId,City,State,ZipCode,Product,Category,SubCategory,Channel
+1001_CId,122_PId,New Orleans,LA,070116,Candle Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1012_CId,112_PId,Middle Island,NY,011953,Hakama Trousers,Apparel & Accessories,Clothing,Tablet
+1016_CId,138_PId,Phoenix,AZ,085013,Vital Signs Monitor Accessories,Business & Industrial,Medical,Desk
+1001_CId,141_PId,New Orleans,LA,070116,Computer Covers & Skins,Electronics,Electronics Accessories,Mobile
+1004_CId,141_PId,Anchorage,AK,099501,Computer Covers & Skins,Electronics,Electronics Accessories,Tablet
+1006_CId,118_PId,Ashland,OH,044805,Loungewear,Apparel & Accessories,Clothing,Mobile
+1003_CId,132_PId,Bridgeport,NJ,008014,Gait Belts,Business & Industrial,Medical,Tablet

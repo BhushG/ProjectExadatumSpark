@@ -1,0 +1,28 @@
+CustomerId,ProductId,City,State,ZipCode,Product,Category,SubCategory,Channel
+1017_CId,110_PId,Mc Minnville,TN,037110,Cat Toys,Animals & Pet Supplies,Pet Supplies,Desk
+1017_CId,107_PId,Mc Minnville,TN,037110,Cat Litter Box Liners,Animals & Pet Supplies,Pet Supplies,Desk
+1017_CId,111_PId,Mc Minnville,TN,037110,Dirndls,Apparel & Accessories,Clothing,Desk
+1017_CId,129_PId,Mc Minnville,TN,037110,Scrapbooking & Stamping Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1029_CId,101_PId,New York,NY,010011,Cat Apparel,Animals & Pet Supplies,Pet Supplies,Mobile
+1029_CId,111_PId,New York,NY,010011,Dirndls,Apparel & Accessories,Clothing,Mobile
+1001_CId,134_PId,New Orleans,LA,070116,Medical Stretchers & Gurneys,Business & Industrial,Medical,Mobile
+1001_CId,145_PId,New Orleans,LA,070116,E-Book Reader Cases,Electronics,Electronics Accessories,Mobile
+1001_CId,116_PId,New Orleans,LA,070116,Religious Ceremonial Clothing,Apparel & Accessories,Clothing,Mobile
+1001_CId,124_PId,New Orleans,LA,070116,Fabric Repair Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1014_CId,121_PId,Chagrin Falls,OH,044023,Robes,Apparel & Accessories,Clothing,Desk
+1014_CId,102_PId,Chagrin Falls,OH,044023,Cat Beds,Animals & Pet Supplies,Pet Supplies,Desk
+1014_CId,139_PId,Chagrin Falls,OH,044023,Vital Signs Monitors,Business & Industrial,Medical,Desk
+1014_CId,101_PId,Chagrin Falls,OH,044023,Cat Apparel,Animals & Pet Supplies,Pet Supplies,Desk
+1023_CId,110_PId,Irving,TX,075062,Cat Toys,Animals & Pet Supplies,Pet Supplies,Desk
+1023_CId,133_PId,Irving,TX,075062,Medical Reflex Hammers & Tuning Forks,Business & Industrial,Medical,Desk
+1006_CId,108_PId,Ashland,OH,044805,Cat Litter Box Mats,Animals & Pet Supplies,Pet Supplies,Tablet
+1006_CId,143_PId,Ashland,OH,044805,Handheld Device Accessories,Electronics,Electronics Accessories,Tablet
+1006_CId,128_PId,Ashland,OH,044805,Needlecraft Kits,Arts & Entertainment,Hobbies & Creative Arts,Tablet
+1006_CId,107_PId,Ashland,OH,044805,Cat Litter Box Liners,Animals & Pet Supplies,Pet Supplies,Tablet
+1011_CId,110_PId,Kulpsville,PA,019443,Cat Toys,Animals & Pet Supplies,Pet Supplies,Tablet
+1011_CId,108_PId,Kulpsville,PA,019443,Cat Litter Box Mats,Animals & Pet Supplies,Pet Supplies,Tablet
+1011_CId,141_PId,Kulpsville,PA,019443,Computer Covers & Skins,Electronics,Electronics Accessories,Tablet
+1023_CId,118_PId,Irving,TX,075062,Loungewear,Apparel & Accessories,Clothing,Tablet
+1023_CId,103_PId,Irving,TX,075062,Cat Food,Animals & Pet Supplies,Pet Supplies,Tablet
+1023_CId,121_PId,Irving,TX,075062,Robes,Apparel & Accessories,Clothing,Tablet
+1023_CId,108_PId,Irving,TX,075062,Cat Litter Box Mats,Animals & Pet Supplies,Pet Supplies,Tablet

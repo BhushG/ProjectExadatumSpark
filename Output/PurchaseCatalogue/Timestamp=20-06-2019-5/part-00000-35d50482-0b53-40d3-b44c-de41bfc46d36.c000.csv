@@ -1,0 +1,28 @@
+CustomerId,ProductId,City,State,ZipCode,Product,Category,SubCategory,Channel
+1027_CId,144_PId,Shawnee,KS,066218,E-Book Reader Accessories,Electronics,Electronics Accessories,Mobile
+1027_CId,137_PId,Shawnee,KS,066218,Stethoscopes,Business & Industrial,Medical,Mobile
+1027_CId,130_PId,Shawnee,KS,066218,Toy Craft Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1014_CId,125_PId,Chagrin Falls,OH,044023,Incense Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1014_CId,135_PId,Chagrin Falls,OH,044023,Otoscopes & Ophthalmoscopes,Business & Industrial,Medical,Desk
+1014_CId,120_PId,Chagrin Falls,OH,044023,Pajamas,Apparel & Accessories,Clothing,Desk
+1014_CId,137_PId,Chagrin Falls,OH,044023,Stethoscopes,Business & Industrial,Medical,Desk
+1016_CId,137_PId,Phoenix,AZ,085013,Stethoscopes,Business & Industrial,Medical,Desk
+1016_CId,117_PId,Phoenix,AZ,085013,Baptism,Apparel & Accessories,Clothing,Desk
+1016_CId,148_PId,Phoenix,AZ,085013,Keyboard & Mouse Wrist Rests,Electronics,Electronics Accessories,Desk
+1016_CId,119_PId,Phoenix,AZ,085013,Nightgowns,Apparel & Accessories,Clothing,Desk
+1004_CId,136_PId,Anchorage,AK,099501,Patient Lifts,Business & Industrial,Medical,Mobile
+1004_CId,147_PId,Anchorage,AK,099501,PDA Cases,Electronics,Electronics Accessories,Mobile
+1004_CId,120_PId,Anchorage,AK,099501,Pajamas,Apparel & Accessories,Clothing,Mobile
+1018_CId,120_PId,Milwaukee,WI,053207,Pajamas,Apparel & Accessories,Clothing,Desk
+1018_CId,114_PId,Milwaukee,WI,053207,Kimono Outerwear,Apparel & Accessories,Clothing,Desk
+1018_CId,137_PId,Milwaukee,WI,053207,Stethoscopes,Business & Industrial,Medical,Desk
+1018_CId,126_PId,Milwaukee,WI,053207,Jewelry Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1015_CId,104_PId,Laredo,TX,078045,Cat Furniture,Animals & Pet Supplies,Pet Supplies,Tablet
+1015_CId,117_PId,Laredo,TX,078045,Baptism,Apparel & Accessories,Clothing,Tablet
+1015_CId,141_PId,Laredo,TX,078045,Computer Covers & Skins,Electronics,Electronics Accessories,Tablet
+1015_CId,143_PId,Laredo,TX,078045,Handheld Device Accessories,Electronics,Electronics Accessories,Tablet
+1021_CId,144_PId,Aston,PA,019014,E-Book Reader Accessories,Electronics,Electronics Accessories,Tablet
+1021_CId,141_PId,Aston,PA,019014,Computer Covers & Skins,Electronics,Electronics Accessories,Tablet
+1021_CId,141_PId,Aston,PA,019014,Computer Covers & Skins,Electronics,Electronics Accessories,Tablet
+1021_CId,131_PId,Aston,PA,019014,Automated External Defibrillators,Business & Industrial,Medical,Tablet
+1021_CId,106_PId,Aston,PA,019014,Cat Litter,Animals & Pet Supplies,Pet Supplies,Tablet

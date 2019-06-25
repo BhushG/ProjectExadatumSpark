@@ -1,0 +1,27 @@
+CustomerId,ProductId,City,State,ZipCode,Product,Category,SubCategory,Channel
+1007_CId,125_PId,Chicago,IL,060632,Incense Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1017_CId,130_PId,Mc Minnville,TN,037110,Toy Craft Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1014_CId,101_PId,Chagrin Falls,OH,044023,Cat Apparel,Animals & Pet Supplies,Pet Supplies,Tablet
+1004_CId,145_PId,Anchorage,AK,099501,E-Book Reader Cases,Electronics,Electronics Accessories,Desk
+1002_CId,126_PId,Brighton,MI,048116,Jewelry Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Tablet
+1029_CId,150_PId,New York,NY,010011,Laptop Docking Stations,Electronics,Electronics Accessories,Mobile
+1024_CId,106_PId,Albany,NY,012204,Cat Litter,Animals & Pet Supplies,Pet Supplies,Tablet
+1021_CId,138_PId,Aston,PA,019014,Vital Signs Monitor Accessories,Business & Industrial,Medical,Tablet
+1020_CId,112_PId,Rockford,IL,061109,Hakama Trousers,Apparel & Accessories,Clothing,Mobile
+1027_CId,135_PId,Shawnee,KS,066218,Otoscopes & Ophthalmoscopes,Business & Industrial,Medical,Mobile
+1005_CId,113_PId,Hamilton,OH,045011,Japanese Black Formal Wear,Apparel & Accessories,Clothing,Mobile
+1022_CId,113_PId,San Jose,CA,095111,Japanese Black Formal Wear,Apparel & Accessories,Clothing,Mobile
+1024_CId,108_PId,Albany,NY,012204,Cat Litter Box Mats,Animals & Pet Supplies,Pet Supplies,Mobile
+1030_CId,142_PId,Conroe,TX,077301,Computer Risers & Stands,Electronics,Electronics Accessories,Tablet
+1029_CId,116_PId,New York,NY,010011,Religious Ceremonial Clothing,Apparel & Accessories,Clothing,Desk
+1024_CId,107_PId,Albany,NY,012204,Cat Litter Box Liners,Animals & Pet Supplies,Pet Supplies,Mobile
+1002_CId,132_PId,Brighton,MI,048116,Gait Belts,Business & Industrial,Medical,Tablet
+1030_CId,139_PId,Conroe,TX,077301,Vital Signs Monitors,Business & Industrial,Medical,Tablet
+1008_CId,114_PId,San Jose,CA,095111,Kimono Outerwear,Apparel & Accessories,Clothing,Desk
+1023_CId,119_PId,Irving,TX,075062,Nightgowns,Apparel & Accessories,Clothing,Desk
+1027_CId,121_PId,Shawnee,KS,066218,Robes,Apparel & Accessories,Clothing,Tablet
+1015_CId,148_PId,Laredo,TX,078045,Keyboard & Mouse Wrist Rests,Electronics,Electronics Accessories,Tablet
+1018_CId,128_PId,Milwaukee,WI,053207,Needlecraft Kits,Arts & Entertainment,Hobbies & Creative Arts,Tablet
+1016_CId,150_PId,Phoenix,AZ,085013,Laptop Docking Stations,Electronics,Electronics Accessories,Tablet
+1027_CId,105_PId,Shawnee,KS,066218,Cat Furniture Accessories,Animals & Pet Supplies,Pet Supplies,Tablet
+1019_CId,118_PId,Taylor,MI,048180,Loungewear,Apparel & Accessories,Clothing,Tablet

@@ -1,0 +1,13 @@
+CustomerId,ProductId,City,State,ZipCode,Product,Category,SubCategory,Channel
+1007_CId,150_PId,Chicago,IL,060632,Laptop Docking Stations,Electronics,Electronics Accessories,Mobile
+1013_CId,126_PId,Los Angeles,CA,090034,Jewelry Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1016_CId,107_PId,Phoenix,AZ,085013,Cat Litter Box Liners,Animals & Pet Supplies,Pet Supplies,Tablet
+1028_CId,128_PId,Easton,MD,021601,Needlecraft Kits,Arts & Entertainment,Hobbies & Creative Arts,Tablet
+1016_CId,120_PId,Phoenix,AZ,085013,Pajamas,Apparel & Accessories,Clothing,Tablet
+1013_CId,122_PId,Los Angeles,CA,090034,Candle Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Tablet
+1022_CId,112_PId,San Jose,CA,095111,Hakama Trousers,Apparel & Accessories,Clothing,Mobile
+1030_CId,115_PId,Conroe,TX,077301,Kimonos,Apparel & Accessories,Clothing,Tablet
+1009_CId,143_PId,Sioux Falls,SD,057105,Handheld Device Accessories,Electronics,Electronics Accessories,Desk
+1018_CId,103_PId,Milwaukee,WI,053207,Cat Food,Animals & Pet Supplies,Pet Supplies,Tablet
+1007_CId,109_PId,Chicago,IL,060632,Cat Litter Boxes,Animals & Pet Supplies,Pet Supplies,Mobile
+1024_CId,139_PId,Albany,NY,012204,Vital Signs Monitors,Business & Industrial,Medical,Tablet

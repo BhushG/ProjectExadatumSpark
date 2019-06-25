@@ -1,0 +1,15 @@
+CustomerId,ProductId,City,State,ZipCode,Product,Category,SubCategory,Channel
+1008_CId,139_PId,San Jose,CA,095111,Vital Signs Monitors,Business & Industrial,Medical,Tablet
+1021_CId,135_PId,Aston,PA,019014,Otoscopes & Ophthalmoscopes,Business & Industrial,Medical,Mobile
+1029_CId,122_PId,New York,NY,010011,Candle Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Tablet
+1012_CId,110_PId,Middle Island,NY,011953,Cat Toys,Animals & Pet Supplies,Pet Supplies,Tablet
+1027_CId,104_PId,Shawnee,KS,066218,Cat Furniture,Animals & Pet Supplies,Pet Supplies,Tablet
+1021_CId,125_PId,Aston,PA,019014,Incense Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1022_CId,145_PId,San Jose,CA,095111,E-Book Reader Cases,Electronics,Electronics Accessories,Tablet
+1012_CId,102_PId,Middle Island,NY,011953,Cat Beds,Animals & Pet Supplies,Pet Supplies,Mobile
+1014_CId,109_PId,Chagrin Falls,OH,044023,Cat Litter Boxes,Animals & Pet Supplies,Pet Supplies,Desk
+1012_CId,108_PId,Middle Island,NY,011953,Cat Litter Box Mats,Animals & Pet Supplies,Pet Supplies,Mobile
+1021_CId,122_PId,Aston,PA,019014,Candle Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1025_CId,113_PId,Middlesex,NJ,008846,Japanese Black Formal Wear,Apparel & Accessories,Clothing,Tablet
+1020_CId,110_PId,Rockford,IL,061109,Cat Toys,Animals & Pet Supplies,Pet Supplies,Tablet
+1006_CId,102_PId,Ashland,OH,044805,Cat Beds,Animals & Pet Supplies,Pet Supplies,Tablet

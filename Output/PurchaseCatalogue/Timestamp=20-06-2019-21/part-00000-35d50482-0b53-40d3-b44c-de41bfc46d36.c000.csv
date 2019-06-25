@@ -1,0 +1,38 @@
+CustomerId,ProductId,City,State,ZipCode,Product,Category,SubCategory,Channel
+1010_CId,132_PId,Baltimore,MD,021224,Gait Belts,Business & Industrial,Medical,Tablet
+1010_CId,136_PId,Baltimore,MD,021224,Patient Lifts,Business & Industrial,Medical,Tablet
+1010_CId,106_PId,Baltimore,MD,021224,Cat Litter,Animals & Pet Supplies,Pet Supplies,Tablet
+1023_CId,124_PId,Irving,TX,075062,Fabric Repair Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1023_CId,142_PId,Irving,TX,075062,Computer Risers & Stands,Electronics,Electronics Accessories,Desk
+1023_CId,112_PId,Irving,TX,075062,Hakama Trousers,Apparel & Accessories,Clothing,Desk
+1023_CId,118_PId,Irving,TX,075062,Loungewear,Apparel & Accessories,Clothing,Desk
+1023_CId,145_PId,Irving,TX,075062,E-Book Reader Cases,Electronics,Electronics Accessories,Desk
+1008_CId,117_PId,San Jose,CA,095111,Baptism,Apparel & Accessories,Clothing,Mobile
+1008_CId,147_PId,San Jose,CA,095111,PDA Cases,Electronics,Electronics Accessories,Mobile
+1008_CId,140_PId,San Jose,CA,095111,Computer Accessory Sets,Electronics,Electronics Accessories,Mobile
+1008_CId,133_PId,San Jose,CA,095111,Medical Reflex Hammers & Tuning Forks,Business & Industrial,Medical,Mobile
+1008_CId,116_PId,San Jose,CA,095111,Religious Ceremonial Clothing,Apparel & Accessories,Clothing,Mobile
+1025_CId,150_PId,Middlesex,NJ,008846,Laptop Docking Stations,Electronics,Electronics Accessories,Mobile
+1025_CId,123_PId,Middlesex,NJ,008846,Drawing & Painting Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1025_CId,146_PId,Middlesex,NJ,008846,PDA Accessories,Electronics,Electronics Accessories,Mobile
+1014_CId,129_PId,Chagrin Falls,OH,044023,Scrapbooking & Stamping Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1014_CId,120_PId,Chagrin Falls,OH,044023,Pajamas,Apparel & Accessories,Clothing,Mobile
+1014_CId,108_PId,Chagrin Falls,OH,044023,Cat Litter Box Mats,Animals & Pet Supplies,Pet Supplies,Mobile
+1014_CId,146_PId,Chagrin Falls,OH,044023,PDA Accessories,Electronics,Electronics Accessories,Mobile
+1014_CId,117_PId,Chagrin Falls,OH,044023,Baptism,Apparel & Accessories,Clothing,Mobile
+1021_CId,130_PId,Aston,PA,019014,Toy Craft Kits,Arts & Entertainment,Hobbies & Creative Arts,Tablet
+1021_CId,132_PId,Aston,PA,019014,Gait Belts,Business & Industrial,Medical,Tablet
+1021_CId,142_PId,Aston,PA,019014,Computer Risers & Stands,Electronics,Electronics Accessories,Tablet
+1004_CId,135_PId,Anchorage,AK,099501,Otoscopes & Ophthalmoscopes,Business & Industrial,Medical,Tablet
+1004_CId,145_PId,Anchorage,AK,099501,E-Book Reader Cases,Electronics,Electronics Accessories,Tablet
+1004_CId,121_PId,Anchorage,AK,099501,Robes,Apparel & Accessories,Clothing,Tablet
+1004_CId,145_PId,Anchorage,AK,099501,E-Book Reader Cases,Electronics,Electronics Accessories,Tablet
+1001_CId,120_PId,New Orleans,LA,070116,Pajamas,Apparel & Accessories,Clothing,Tablet
+1001_CId,105_PId,New Orleans,LA,070116,Cat Furniture Accessories,Animals & Pet Supplies,Pet Supplies,Tablet
+1001_CId,139_PId,New Orleans,LA,070116,Vital Signs Monitors,Business & Industrial,Medical,Tablet
+1001_CId,118_PId,New Orleans,LA,070116,Loungewear,Apparel & Accessories,Clothing,Tablet
+1018_CId,122_PId,Milwaukee,WI,053207,Candle Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1018_CId,148_PId,Milwaukee,WI,053207,Keyboard & Mouse Wrist Rests,Electronics,Electronics Accessories,Desk
+1018_CId,101_PId,Milwaukee,WI,053207,Cat Apparel,Animals & Pet Supplies,Pet Supplies,Desk
+1018_CId,133_PId,Milwaukee,WI,053207,Medical Reflex Hammers & Tuning Forks,Business & Industrial,Medical,Desk
+1018_CId,115_PId,Milwaukee,WI,053207,Kimonos,Apparel & Accessories,Clothing,Desk

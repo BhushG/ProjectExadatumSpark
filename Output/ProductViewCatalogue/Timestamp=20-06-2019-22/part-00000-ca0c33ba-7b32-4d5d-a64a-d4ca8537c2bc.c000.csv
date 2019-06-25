@@ -1,0 +1,26 @@
+CustomerId,ProductId,City,State,ZipCode,Product,Category,SubCategory,Channel
+1006_CId,119_PId,Ashland,OH,044805,Nightgowns,Apparel & Accessories,Clothing,Mobile
+1023_CId,107_PId,Irving,TX,075062,Cat Litter Box Liners,Animals & Pet Supplies,Pet Supplies,Tablet
+1011_CId,124_PId,Kulpsville,PA,019443,Fabric Repair Kits,Arts & Entertainment,Hobbies & Creative Arts,Tablet
+1011_CId,142_PId,Kulpsville,PA,019443,Computer Risers & Stands,Electronics,Electronics Accessories,Mobile
+1013_CId,104_PId,Los Angeles,CA,090034,Cat Furniture,Animals & Pet Supplies,Pet Supplies,Tablet
+1008_CId,106_PId,San Jose,CA,095111,Cat Litter,Animals & Pet Supplies,Pet Supplies,Mobile
+1030_CId,102_PId,Conroe,TX,077301,Cat Beds,Animals & Pet Supplies,Pet Supplies,Mobile
+1005_CId,146_PId,Hamilton,OH,045011,PDA Accessories,Electronics,Electronics Accessories,Desk
+1016_CId,148_PId,Phoenix,AZ,085013,Keyboard & Mouse Wrist Rests,Electronics,Electronics Accessories,Mobile
+1005_CId,112_PId,Hamilton,OH,045011,Hakama Trousers,Apparel & Accessories,Clothing,Mobile
+1021_CId,149_PId,Aston,PA,019014,Keyboard Trays & Platforms,Electronics,Electronics Accessories,Mobile
+1003_CId,104_PId,Bridgeport,NJ,008014,Cat Furniture,Animals & Pet Supplies,Pet Supplies,Desk
+1015_CId,149_PId,Laredo,TX,078045,Keyboard Trays & Platforms,Electronics,Electronics Accessories,Tablet
+1016_CId,111_PId,Phoenix,AZ,085013,Dirndls,Apparel & Accessories,Clothing,Mobile
+1020_CId,127_PId,Rockford,IL,061109,Mosaic Kits,Arts & Entertainment,Hobbies & Creative Arts,Tablet
+1016_CId,141_PId,Phoenix,AZ,085013,Computer Covers & Skins,Electronics,Electronics Accessories,Tablet
+1018_CId,149_PId,Milwaukee,WI,053207,Keyboard Trays & Platforms,Electronics,Electronics Accessories,Desk
+1030_CId,137_PId,Conroe,TX,077301,Stethoscopes,Business & Industrial,Medical,Tablet
+1010_CId,130_PId,Baltimore,MD,021224,Toy Craft Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1010_CId,149_PId,Baltimore,MD,021224,Keyboard Trays & Platforms,Electronics,Electronics Accessories,Tablet
+1029_CId,139_PId,New York,NY,010011,Vital Signs Monitors,Business & Industrial,Medical,Tablet
+1018_CId,130_PId,Milwaukee,WI,053207,Toy Craft Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1030_CId,141_PId,Conroe,TX,077301,Computer Covers & Skins,Electronics,Electronics Accessories,Mobile
+1009_CId,114_PId,Sioux Falls,SD,057105,Kimono Outerwear,Apparel & Accessories,Clothing,Tablet
+1027_CId,146_PId,Shawnee,KS,066218,PDA Accessories,Electronics,Electronics Accessories,Desk

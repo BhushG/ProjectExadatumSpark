@@ -1,0 +1,39 @@
+CustomerId,ProductId,City,State,ZipCode,Product,Category,SubCategory,Channel
+1009_CId,119_PId,Sioux Falls,SD,057105,Nightgowns,Apparel & Accessories,Clothing,Desk
+1009_CId,109_PId,Sioux Falls,SD,057105,Cat Litter Boxes,Animals & Pet Supplies,Pet Supplies,Desk
+1009_CId,137_PId,Sioux Falls,SD,057105,Stethoscopes,Business & Industrial,Medical,Desk
+1009_CId,119_PId,Sioux Falls,SD,057105,Nightgowns,Apparel & Accessories,Clothing,Desk
+1009_CId,146_PId,Sioux Falls,SD,057105,PDA Accessories,Electronics,Electronics Accessories,Desk
+1030_CId,123_PId,Conroe,TX,077301,Drawing & Painting Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1030_CId,134_PId,Conroe,TX,077301,Medical Stretchers & Gurneys,Business & Industrial,Medical,Mobile
+1030_CId,115_PId,Conroe,TX,077301,Kimonos,Apparel & Accessories,Clothing,Mobile
+1030_CId,129_PId,Conroe,TX,077301,Scrapbooking & Stamping Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1030_CId,146_PId,Conroe,TX,077301,PDA Accessories,Electronics,Electronics Accessories,Mobile
+1028_CId,150_PId,Easton,MD,021601,Laptop Docking Stations,Electronics,Electronics Accessories,Tablet
+1028_CId,111_PId,Easton,MD,021601,Dirndls,Apparel & Accessories,Clothing,Tablet
+1023_CId,107_PId,Irving,TX,075062,Cat Litter Box Liners,Animals & Pet Supplies,Pet Supplies,Desk
+1023_CId,129_PId,Irving,TX,075062,Scrapbooking & Stamping Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1023_CId,120_PId,Irving,TX,075062,Pajamas,Apparel & Accessories,Clothing,Desk
+1023_CId,150_PId,Irving,TX,075062,Laptop Docking Stations,Electronics,Electronics Accessories,Desk
+1023_CId,101_PId,Irving,TX,075062,Cat Apparel,Animals & Pet Supplies,Pet Supplies,Desk
+1020_CId,112_PId,Rockford,IL,061109,Hakama Trousers,Apparel & Accessories,Clothing,Mobile
+1020_CId,132_PId,Rockford,IL,061109,Gait Belts,Business & Industrial,Medical,Mobile
+1020_CId,141_PId,Rockford,IL,061109,Computer Covers & Skins,Electronics,Electronics Accessories,Mobile
+1020_CId,139_PId,Rockford,IL,061109,Vital Signs Monitors,Business & Industrial,Medical,Mobile
+1003_CId,107_PId,Bridgeport,NJ,008014,Cat Litter Box Liners,Animals & Pet Supplies,Pet Supplies,Mobile
+1003_CId,124_PId,Bridgeport,NJ,008014,Fabric Repair Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1003_CId,106_PId,Bridgeport,NJ,008014,Cat Litter,Animals & Pet Supplies,Pet Supplies,Mobile
+1003_CId,139_PId,Bridgeport,NJ,008014,Vital Signs Monitors,Business & Industrial,Medical,Mobile
+1003_CId,111_PId,Bridgeport,NJ,008014,Dirndls,Apparel & Accessories,Clothing,Mobile
+1002_CId,130_PId,Brighton,MI,048116,Toy Craft Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1002_CId,139_PId,Brighton,MI,048116,Vital Signs Monitors,Business & Industrial,Medical,Mobile
+1002_CId,105_PId,Brighton,MI,048116,Cat Furniture Accessories,Animals & Pet Supplies,Pet Supplies,Mobile
+1002_CId,120_PId,Brighton,MI,048116,Pajamas,Apparel & Accessories,Clothing,Mobile
+1002_CId,115_PId,Brighton,MI,048116,Kimonos,Apparel & Accessories,Clothing,Mobile
+1009_CId,127_PId,Sioux Falls,SD,057105,Mosaic Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1009_CId,133_PId,Sioux Falls,SD,057105,Medical Reflex Hammers & Tuning Forks,Business & Industrial,Medical,Desk
+1011_CId,112_PId,Kulpsville,PA,019443,Hakama Trousers,Apparel & Accessories,Clothing,Tablet
+1011_CId,126_PId,Kulpsville,PA,019443,Jewelry Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Tablet
+1011_CId,120_PId,Kulpsville,PA,019443,Pajamas,Apparel & Accessories,Clothing,Tablet
+1011_CId,101_PId,Kulpsville,PA,019443,Cat Apparel,Animals & Pet Supplies,Pet Supplies,Tablet
+1011_CId,112_PId,Kulpsville,PA,019443,Hakama Trousers,Apparel & Accessories,Clothing,Tablet

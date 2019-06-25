@@ -1,0 +1,22 @@
+CustomerId,ProductId,City,State,ZipCode,Product,Category,SubCategory,Channel
+1004_CId,102_PId,Anchorage,AK,099501,Cat Beds,Animals & Pet Supplies,Pet Supplies,Tablet
+1016_CId,150_PId,Phoenix,AZ,085013,Laptop Docking Stations,Electronics,Electronics Accessories,Mobile
+1001_CId,105_PId,New Orleans,LA,070116,Cat Furniture Accessories,Animals & Pet Supplies,Pet Supplies,Tablet
+1028_CId,115_PId,Easton,MD,021601,Kimonos,Apparel & Accessories,Clothing,Tablet
+1020_CId,138_PId,Rockford,IL,061109,Vital Signs Monitor Accessories,Business & Industrial,Medical,Tablet
+1003_CId,116_PId,Bridgeport,NJ,008014,Religious Ceremonial Clothing,Apparel & Accessories,Clothing,Desk
+1009_CId,142_PId,Sioux Falls,SD,057105,Computer Risers & Stands,Electronics,Electronics Accessories,Mobile
+1006_CId,142_PId,Ashland,OH,044805,Computer Risers & Stands,Electronics,Electronics Accessories,Tablet
+1012_CId,124_PId,Middle Island,NY,011953,Fabric Repair Kits,Arts & Entertainment,Hobbies & Creative Arts,Tablet
+1030_CId,141_PId,Conroe,TX,077301,Computer Covers & Skins,Electronics,Electronics Accessories,Desk
+1025_CId,145_PId,Middlesex,NJ,008846,E-Book Reader Cases,Electronics,Electronics Accessories,Desk
+1004_CId,142_PId,Anchorage,AK,099501,Computer Risers & Stands,Electronics,Electronics Accessories,Desk
+1030_CId,145_PId,Conroe,TX,077301,E-Book Reader Cases,Electronics,Electronics Accessories,Mobile
+1018_CId,111_PId,Milwaukee,WI,053207,Dirndls,Apparel & Accessories,Clothing,Mobile
+1012_CId,146_PId,Middle Island,NY,011953,PDA Accessories,Electronics,Electronics Accessories,Mobile
+1029_CId,145_PId,New York,NY,010011,E-Book Reader Cases,Electronics,Electronics Accessories,Desk
+1025_CId,135_PId,Middlesex,NJ,008846,Otoscopes & Ophthalmoscopes,Business & Industrial,Medical,Mobile
+1011_CId,126_PId,Kulpsville,PA,019443,Jewelry Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1020_CId,132_PId,Rockford,IL,061109,Gait Belts,Business & Industrial,Medical,Mobile
+1018_CId,150_PId,Milwaukee,WI,053207,Laptop Docking Stations,Electronics,Electronics Accessories,Tablet
+1026_CId,132_PId,Stevens Point,WI,054481,Gait Belts,Business & Industrial,Medical,Desk

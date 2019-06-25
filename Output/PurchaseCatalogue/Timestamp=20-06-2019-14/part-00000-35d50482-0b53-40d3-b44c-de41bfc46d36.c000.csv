@@ -1,0 +1,35 @@
+CustomerId,ProductId,City,State,ZipCode,Product,Category,SubCategory,Channel
+1017_CId,106_PId,Mc Minnville,TN,037110,Cat Litter,Animals & Pet Supplies,Pet Supplies,Tablet
+1017_CId,105_PId,Mc Minnville,TN,037110,Cat Furniture Accessories,Animals & Pet Supplies,Pet Supplies,Tablet
+1017_CId,130_PId,Mc Minnville,TN,037110,Toy Craft Kits,Arts & Entertainment,Hobbies & Creative Arts,Tablet
+1017_CId,112_PId,Mc Minnville,TN,037110,Hakama Trousers,Apparel & Accessories,Clothing,Tablet
+1017_CId,131_PId,Mc Minnville,TN,037110,Automated External Defibrillators,Business & Industrial,Medical,Tablet
+1027_CId,104_PId,Shawnee,KS,066218,Cat Furniture,Animals & Pet Supplies,Pet Supplies,Mobile
+1027_CId,105_PId,Shawnee,KS,066218,Cat Furniture Accessories,Animals & Pet Supplies,Pet Supplies,Mobile
+1027_CId,120_PId,Shawnee,KS,066218,Pajamas,Apparel & Accessories,Clothing,Mobile
+1014_CId,141_PId,Chagrin Falls,OH,044023,Computer Covers & Skins,Electronics,Electronics Accessories,Mobile
+1014_CId,138_PId,Chagrin Falls,OH,044023,Vital Signs Monitor Accessories,Business & Industrial,Medical,Mobile
+1014_CId,134_PId,Chagrin Falls,OH,044023,Medical Stretchers & Gurneys,Business & Industrial,Medical,Mobile
+1014_CId,109_PId,Chagrin Falls,OH,044023,Cat Litter Boxes,Animals & Pet Supplies,Pet Supplies,Mobile
+1014_CId,111_PId,Chagrin Falls,OH,044023,Dirndls,Apparel & Accessories,Clothing,Mobile
+1007_CId,116_PId,Chicago,IL,060632,Religious Ceremonial Clothing,Apparel & Accessories,Clothing,Tablet
+1007_CId,106_PId,Chicago,IL,060632,Cat Litter,Animals & Pet Supplies,Pet Supplies,Tablet
+1027_CId,136_PId,Shawnee,KS,066218,Patient Lifts,Business & Industrial,Medical,Desk
+1027_CId,136_PId,Shawnee,KS,066218,Patient Lifts,Business & Industrial,Medical,Desk
+1027_CId,139_PId,Shawnee,KS,066218,Vital Signs Monitors,Business & Industrial,Medical,Desk
+1027_CId,150_PId,Shawnee,KS,066218,Laptop Docking Stations,Electronics,Electronics Accessories,Desk
+1018_CId,117_PId,Milwaukee,WI,053207,Baptism,Apparel & Accessories,Clothing,Mobile
+1018_CId,126_PId,Milwaukee,WI,053207,Jewelry Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1018_CId,138_PId,Milwaukee,WI,053207,Vital Signs Monitor Accessories,Business & Industrial,Medical,Mobile
+1018_CId,136_PId,Milwaukee,WI,053207,Patient Lifts,Business & Industrial,Medical,Mobile
+1018_CId,129_PId,Milwaukee,WI,053207,Scrapbooking & Stamping Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1019_CId,136_PId,Taylor,MI,048180,Patient Lifts,Business & Industrial,Medical,Mobile
+1019_CId,131_PId,Taylor,MI,048180,Automated External Defibrillators,Business & Industrial,Medical,Mobile
+1019_CId,103_PId,Taylor,MI,048180,Cat Food,Animals & Pet Supplies,Pet Supplies,Mobile
+1019_CId,107_PId,Taylor,MI,048180,Cat Litter Box Liners,Animals & Pet Supplies,Pet Supplies,Desk
+1019_CId,135_PId,Taylor,MI,048180,Otoscopes & Ophthalmoscopes,Business & Industrial,Medical,Desk
+1006_CId,120_PId,Ashland,OH,044805,Pajamas,Apparel & Accessories,Clothing,Mobile
+1006_CId,149_PId,Ashland,OH,044805,Keyboard Trays & Platforms,Electronics,Electronics Accessories,Mobile
+1029_CId,107_PId,New York,NY,010011,Cat Litter Box Liners,Animals & Pet Supplies,Pet Supplies,Desk
+1029_CId,140_PId,New York,NY,010011,Computer Accessory Sets,Electronics,Electronics Accessories,Desk
+1029_CId,124_PId,New York,NY,010011,Fabric Repair Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk

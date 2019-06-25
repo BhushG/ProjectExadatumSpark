@@ -1,0 +1,42 @@
+CustomerId,ProductId,City,State,ZipCode,Product,Category,SubCategory,Channel
+1016_CId,145_PId,Phoenix,AZ,085013,E-Book Reader Cases,Electronics,Electronics Accessories,Desk
+1016_CId,111_PId,Phoenix,AZ,085013,Dirndls,Apparel & Accessories,Clothing,Desk
+1016_CId,129_PId,Phoenix,AZ,085013,Scrapbooking & Stamping Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1016_CId,142_PId,Phoenix,AZ,085013,Computer Risers & Stands,Electronics,Electronics Accessories,Desk
+1012_CId,122_PId,Middle Island,NY,011953,Candle Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1012_CId,112_PId,Middle Island,NY,011953,Hakama Trousers,Apparel & Accessories,Clothing,Mobile
+1019_CId,146_PId,Taylor,MI,048180,PDA Accessories,Electronics,Electronics Accessories,Desk
+1019_CId,128_PId,Taylor,MI,048180,Needlecraft Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1019_CId,106_PId,Taylor,MI,048180,Cat Litter,Animals & Pet Supplies,Pet Supplies,Desk
+1010_CId,131_PId,Baltimore,MD,021224,Automated External Defibrillators,Business & Industrial,Medical,Tablet
+1010_CId,115_PId,Baltimore,MD,021224,Kimonos,Apparel & Accessories,Clothing,Tablet
+1010_CId,139_PId,Baltimore,MD,021224,Vital Signs Monitors,Business & Industrial,Medical,Tablet
+1010_CId,124_PId,Baltimore,MD,021224,Fabric Repair Kits,Arts & Entertainment,Hobbies & Creative Arts,Tablet
+1005_CId,143_PId,Hamilton,OH,045011,Handheld Device Accessories,Electronics,Electronics Accessories,Desk
+1005_CId,104_PId,Hamilton,OH,045011,Cat Furniture,Animals & Pet Supplies,Pet Supplies,Desk
+1005_CId,126_PId,Hamilton,OH,045011,Jewelry Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1025_CId,142_PId,Middlesex,NJ,008846,Computer Risers & Stands,Electronics,Electronics Accessories,Desk
+1025_CId,121_PId,Middlesex,NJ,008846,Robes,Apparel & Accessories,Clothing,Desk
+1006_CId,103_PId,Ashland,OH,044805,Cat Food,Animals & Pet Supplies,Pet Supplies,Mobile
+1006_CId,145_PId,Ashland,OH,044805,E-Book Reader Cases,Electronics,Electronics Accessories,Mobile
+1006_CId,150_PId,Ashland,OH,044805,Laptop Docking Stations,Electronics,Electronics Accessories,Mobile
+1006_CId,117_PId,Ashland,OH,044805,Baptism,Apparel & Accessories,Clothing,Mobile
+1006_CId,131_PId,Ashland,OH,044805,Automated External Defibrillators,Business & Industrial,Medical,Mobile
+1004_CId,140_PId,Anchorage,AK,099501,Computer Accessory Sets,Electronics,Electronics Accessories,Tablet
+1004_CId,139_PId,Anchorage,AK,099501,Vital Signs Monitors,Business & Industrial,Medical,Tablet
+1004_CId,143_PId,Anchorage,AK,099501,Handheld Device Accessories,Electronics,Electronics Accessories,Tablet
+1004_CId,140_PId,Anchorage,AK,099501,Computer Accessory Sets,Electronics,Electronics Accessories,Tablet
+1004_CId,121_PId,Anchorage,AK,099501,Robes,Apparel & Accessories,Clothing,Tablet
+1011_CId,107_PId,Kulpsville,PA,019443,Cat Litter Box Liners,Animals & Pet Supplies,Pet Supplies,Tablet
+1011_CId,106_PId,Kulpsville,PA,019443,Cat Litter,Animals & Pet Supplies,Pet Supplies,Tablet
+1011_CId,118_PId,Kulpsville,PA,019443,Loungewear,Apparel & Accessories,Clothing,Tablet
+1011_CId,124_PId,Kulpsville,PA,019443,Fabric Repair Kits,Arts & Entertainment,Hobbies & Creative Arts,Tablet
+1027_CId,105_PId,Shawnee,KS,066218,Cat Furniture Accessories,Animals & Pet Supplies,Pet Supplies,Mobile
+1027_CId,145_PId,Shawnee,KS,066218,E-Book Reader Cases,Electronics,Electronics Accessories,Mobile
+1027_CId,105_PId,Shawnee,KS,066218,Cat Furniture Accessories,Animals & Pet Supplies,Pet Supplies,Mobile
+1023_CId,124_PId,Irving,TX,075062,Fabric Repair Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1023_CId,107_PId,Irving,TX,075062,Cat Litter Box Liners,Animals & Pet Supplies,Pet Supplies,Desk
+1029_CId,139_PId,New York,NY,010011,Vital Signs Monitors,Business & Industrial,Medical,Mobile
+1029_CId,118_PId,New York,NY,010011,Loungewear,Apparel & Accessories,Clothing,Mobile
+1029_CId,111_PId,New York,NY,010011,Dirndls,Apparel & Accessories,Clothing,Mobile
+1029_CId,119_PId,New York,NY,010011,Nightgowns,Apparel & Accessories,Clothing,Mobile

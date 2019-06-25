@@ -1,0 +1,32 @@
+CustomerId,ProductId,City,State,ZipCode,Product,Category,SubCategory,Channel
+1028_CId,146_PId,Easton,MD,021601,PDA Accessories,Electronics,Electronics Accessories,Mobile
+1028_CId,143_PId,Easton,MD,021601,Handheld Device Accessories,Electronics,Electronics Accessories,Mobile
+1028_CId,140_PId,Easton,MD,021601,Computer Accessory Sets,Electronics,Electronics Accessories,Mobile
+1028_CId,143_PId,Easton,MD,021601,Handheld Device Accessories,Electronics,Electronics Accessories,Mobile
+1008_CId,145_PId,San Jose,CA,095111,E-Book Reader Cases,Electronics,Electronics Accessories,Mobile
+1008_CId,120_PId,San Jose,CA,095111,Pajamas,Apparel & Accessories,Clothing,Mobile
+1008_CId,133_PId,San Jose,CA,095111,Medical Reflex Hammers & Tuning Forks,Business & Industrial,Medical,Mobile
+1008_CId,133_PId,San Jose,CA,095111,Medical Reflex Hammers & Tuning Forks,Business & Industrial,Medical,Mobile
+1006_CId,122_PId,Ashland,OH,044805,Candle Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1006_CId,131_PId,Ashland,OH,044805,Automated External Defibrillators,Business & Industrial,Medical,Mobile
+1006_CId,135_PId,Ashland,OH,044805,Otoscopes & Ophthalmoscopes,Business & Industrial,Medical,Mobile
+1006_CId,117_PId,Ashland,OH,044805,Baptism,Apparel & Accessories,Clothing,Mobile
+1024_CId,107_PId,Albany,NY,012204,Cat Litter Box Liners,Animals & Pet Supplies,Pet Supplies,Mobile
+1024_CId,111_PId,Albany,NY,012204,Dirndls,Apparel & Accessories,Clothing,Mobile
+1024_CId,111_PId,Albany,NY,012204,Dirndls,Apparel & Accessories,Clothing,Mobile
+1024_CId,116_PId,Albany,NY,012204,Religious Ceremonial Clothing,Apparel & Accessories,Clothing,Mobile
+1026_CId,135_PId,Stevens Point,WI,054481,Otoscopes & Ophthalmoscopes,Business & Industrial,Medical,Mobile
+1026_CId,143_PId,Stevens Point,WI,054481,Handheld Device Accessories,Electronics,Electronics Accessories,Mobile
+1028_CId,114_PId,Easton,MD,021601,Kimono Outerwear,Apparel & Accessories,Clothing,Desk
+1028_CId,148_PId,Easton,MD,021601,Keyboard & Mouse Wrist Rests,Electronics,Electronics Accessories,Desk
+1028_CId,108_PId,Easton,MD,021601,Cat Litter Box Mats,Animals & Pet Supplies,Pet Supplies,Desk
+1028_CId,101_PId,Easton,MD,021601,Cat Apparel,Animals & Pet Supplies,Pet Supplies,Desk
+1028_CId,139_PId,Easton,MD,021601,Vital Signs Monitors,Business & Industrial,Medical,Desk
+1027_CId,126_PId,Shawnee,KS,066218,Jewelry Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1027_CId,114_PId,Shawnee,KS,066218,Kimono Outerwear,Apparel & Accessories,Clothing,Desk
+1027_CId,142_PId,Shawnee,KS,066218,Computer Risers & Stands,Electronics,Electronics Accessories,Desk
+1023_CId,149_PId,Irving,TX,075062,Keyboard Trays & Platforms,Electronics,Electronics Accessories,Desk
+1023_CId,120_PId,Irving,TX,075062,Pajamas,Apparel & Accessories,Clothing,Desk
+1023_CId,119_PId,Irving,TX,075062,Nightgowns,Apparel & Accessories,Clothing,Desk
+1023_CId,109_PId,Irving,TX,075062,Cat Litter Boxes,Animals & Pet Supplies,Pet Supplies,Mobile
+1023_CId,107_PId,Irving,TX,075062,Cat Litter Box Liners,Animals & Pet Supplies,Pet Supplies,Mobile

@@ -1,0 +1,26 @@
+CustomerId,ProductId,City,State,ZipCode,Product,Category,SubCategory,Channel
+1028_CId,109_PId,Easton,MD,021601,Cat Litter Boxes,Animals & Pet Supplies,Pet Supplies,Mobile
+1009_CId,150_PId,Sioux Falls,SD,057105,Laptop Docking Stations,Electronics,Electronics Accessories,Tablet
+1010_CId,143_PId,Baltimore,MD,021224,Handheld Device Accessories,Electronics,Electronics Accessories,Tablet
+1012_CId,119_PId,Middle Island,NY,011953,Nightgowns,Apparel & Accessories,Clothing,Tablet
+1018_CId,148_PId,Milwaukee,WI,053207,Keyboard & Mouse Wrist Rests,Electronics,Electronics Accessories,Mobile
+1007_CId,134_PId,Chicago,IL,060632,Medical Stretchers & Gurneys,Business & Industrial,Medical,Desk
+1027_CId,111_PId,Shawnee,KS,066218,Dirndls,Apparel & Accessories,Clothing,Mobile
+1017_CId,133_PId,Mc Minnville,TN,037110,Medical Reflex Hammers & Tuning Forks,Business & Industrial,Medical,Tablet
+1008_CId,131_PId,San Jose,CA,095111,Automated External Defibrillators,Business & Industrial,Medical,Mobile
+1015_CId,123_PId,Laredo,TX,078045,Drawing & Painting Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1003_CId,105_PId,Bridgeport,NJ,008014,Cat Furniture Accessories,Animals & Pet Supplies,Pet Supplies,Tablet
+1013_CId,103_PId,Los Angeles,CA,090034,Cat Food,Animals & Pet Supplies,Pet Supplies,Mobile
+1007_CId,137_PId,Chicago,IL,060632,Stethoscopes,Business & Industrial,Medical,Tablet
+1010_CId,109_PId,Baltimore,MD,021224,Cat Litter Boxes,Animals & Pet Supplies,Pet Supplies,Desk
+1019_CId,137_PId,Taylor,MI,048180,Stethoscopes,Business & Industrial,Medical,Tablet
+1028_CId,105_PId,Easton,MD,021601,Cat Furniture Accessories,Animals & Pet Supplies,Pet Supplies,Desk
+1029_CId,123_PId,New York,NY,010011,Drawing & Painting Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1019_CId,145_PId,Taylor,MI,048180,E-Book Reader Cases,Electronics,Electronics Accessories,Desk
+1005_CId,110_PId,Hamilton,OH,045011,Cat Toys,Animals & Pet Supplies,Pet Supplies,Mobile
+1030_CId,146_PId,Conroe,TX,077301,PDA Accessories,Electronics,Electronics Accessories,Tablet
+1024_CId,106_PId,Albany,NY,012204,Cat Litter,Animals & Pet Supplies,Pet Supplies,Mobile
+1030_CId,110_PId,Conroe,TX,077301,Cat Toys,Animals & Pet Supplies,Pet Supplies,Mobile
+1029_CId,117_PId,New York,NY,010011,Baptism,Apparel & Accessories,Clothing,Desk
+1012_CId,126_PId,Middle Island,NY,011953,Jewelry Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1011_CId,146_PId,Kulpsville,PA,019443,PDA Accessories,Electronics,Electronics Accessories,Mobile

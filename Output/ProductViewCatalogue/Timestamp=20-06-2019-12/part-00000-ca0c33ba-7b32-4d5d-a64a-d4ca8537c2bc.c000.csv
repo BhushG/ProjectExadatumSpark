@@ -1,0 +1,23 @@
+CustomerId,ProductId,City,State,ZipCode,Product,Category,SubCategory,Channel
+1010_CId,118_PId,Baltimore,MD,021224,Loungewear,Apparel & Accessories,Clothing,Mobile
+1027_CId,135_PId,Shawnee,KS,066218,Otoscopes & Ophthalmoscopes,Business & Industrial,Medical,Tablet
+1028_CId,109_PId,Easton,MD,021601,Cat Litter Boxes,Animals & Pet Supplies,Pet Supplies,Mobile
+1010_CId,130_PId,Baltimore,MD,021224,Toy Craft Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1014_CId,105_PId,Chagrin Falls,OH,044023,Cat Furniture Accessories,Animals & Pet Supplies,Pet Supplies,Tablet
+1028_CId,146_PId,Easton,MD,021601,PDA Accessories,Electronics,Electronics Accessories,Tablet
+1006_CId,118_PId,Ashland,OH,044805,Loungewear,Apparel & Accessories,Clothing,Tablet
+1009_CId,101_PId,Sioux Falls,SD,057105,Cat Apparel,Animals & Pet Supplies,Pet Supplies,Desk
+1014_CId,135_PId,Chagrin Falls,OH,044023,Otoscopes & Ophthalmoscopes,Business & Industrial,Medical,Mobile
+1023_CId,118_PId,Irving,TX,075062,Loungewear,Apparel & Accessories,Clothing,Desk
+1002_CId,143_PId,Brighton,MI,048116,Handheld Device Accessories,Electronics,Electronics Accessories,Mobile
+1012_CId,147_PId,Middle Island,NY,011953,PDA Cases,Electronics,Electronics Accessories,Mobile
+1010_CId,145_PId,Baltimore,MD,021224,E-Book Reader Cases,Electronics,Electronics Accessories,Desk
+1012_CId,127_PId,Middle Island,NY,011953,Mosaic Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1012_CId,139_PId,Middle Island,NY,011953,Vital Signs Monitors,Business & Industrial,Medical,Desk
+1024_CId,111_PId,Albany,NY,012204,Dirndls,Apparel & Accessories,Clothing,Tablet
+1030_CId,129_PId,Conroe,TX,077301,Scrapbooking & Stamping Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1007_CId,141_PId,Chicago,IL,060632,Computer Covers & Skins,Electronics,Electronics Accessories,Mobile
+1022_CId,142_PId,San Jose,CA,095111,Computer Risers & Stands,Electronics,Electronics Accessories,Mobile
+1016_CId,127_PId,Phoenix,AZ,085013,Mosaic Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1020_CId,141_PId,Rockford,IL,061109,Computer Covers & Skins,Electronics,Electronics Accessories,Tablet
+1011_CId,136_PId,Kulpsville,PA,019443,Patient Lifts,Business & Industrial,Medical,Tablet

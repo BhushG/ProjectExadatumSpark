@@ -1,0 +1,55 @@
+CustomerId,ProductId,City,State,ZipCode,Product,Category,SubCategory,Channel
+1030_CId,141_PId,Conroe,TX,077301,Computer Covers & Skins,Electronics,Electronics Accessories,Mobile
+1030_CId,127_PId,Conroe,TX,077301,Mosaic Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1030_CId,142_PId,Conroe,TX,077301,Computer Risers & Stands,Electronics,Electronics Accessories,Mobile
+1023_CId,105_PId,Irving,TX,075062,Cat Furniture Accessories,Animals & Pet Supplies,Pet Supplies,Desk
+1023_CId,148_PId,Irving,TX,075062,Keyboard & Mouse Wrist Rests,Electronics,Electronics Accessories,Desk
+1023_CId,105_PId,Irving,TX,075062,Cat Furniture Accessories,Animals & Pet Supplies,Pet Supplies,Desk
+1023_CId,108_PId,Irving,TX,075062,Cat Litter Box Mats,Animals & Pet Supplies,Pet Supplies,Desk
+1020_CId,135_PId,Rockford,IL,061109,Otoscopes & Ophthalmoscopes,Business & Industrial,Medical,Tablet
+1020_CId,121_PId,Rockford,IL,061109,Robes,Apparel & Accessories,Clothing,Tablet
+1004_CId,143_PId,Anchorage,AK,099501,Handheld Device Accessories,Electronics,Electronics Accessories,Mobile
+1004_CId,137_PId,Anchorage,AK,099501,Stethoscopes,Business & Industrial,Medical,Mobile
+1004_CId,144_PId,Anchorage,AK,099501,E-Book Reader Accessories,Electronics,Electronics Accessories,Mobile
+1004_CId,133_PId,Anchorage,AK,099501,Medical Reflex Hammers & Tuning Forks,Business & Industrial,Medical,Mobile
+1004_CId,123_PId,Anchorage,AK,099501,Drawing & Painting Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1005_CId,107_PId,Hamilton,OH,045011,Cat Litter Box Liners,Animals & Pet Supplies,Pet Supplies,Tablet
+1005_CId,114_PId,Hamilton,OH,045011,Kimono Outerwear,Apparel & Accessories,Clothing,Tablet
+1005_CId,129_PId,Hamilton,OH,045011,Scrapbooking & Stamping Kits,Arts & Entertainment,Hobbies & Creative Arts,Tablet
+1005_CId,144_PId,Hamilton,OH,045011,E-Book Reader Accessories,Electronics,Electronics Accessories,Tablet
+1005_CId,134_PId,Hamilton,OH,045011,Medical Stretchers & Gurneys,Business & Industrial,Medical,Tablet
+1003_CId,104_PId,Bridgeport,NJ,008014,Cat Furniture,Animals & Pet Supplies,Pet Supplies,Mobile
+1003_CId,125_PId,Bridgeport,NJ,008014,Incense Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Mobile
+1003_CId,113_PId,Bridgeport,NJ,008014,Japanese Black Formal Wear,Apparel & Accessories,Clothing,Mobile
+1023_CId,142_PId,Irving,TX,075062,Computer Risers & Stands,Electronics,Electronics Accessories,Desk
+1023_CId,125_PId,Irving,TX,075062,Incense Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1023_CId,137_PId,Irving,TX,075062,Stethoscopes,Business & Industrial,Medical,Desk
+1027_CId,136_PId,Shawnee,KS,066218,Patient Lifts,Business & Industrial,Medical,Mobile
+1027_CId,113_PId,Shawnee,KS,066218,Japanese Black Formal Wear,Apparel & Accessories,Clothing,Mobile
+1027_CId,147_PId,Shawnee,KS,066218,PDA Cases,Electronics,Electronics Accessories,Mobile
+1014_CId,131_PId,Chagrin Falls,OH,044023,Automated External Defibrillators,Business & Industrial,Medical,Tablet
+1014_CId,104_PId,Chagrin Falls,OH,044023,Cat Furniture,Animals & Pet Supplies,Pet Supplies,Tablet
+1021_CId,101_PId,Aston,PA,019014,Cat Apparel,Animals & Pet Supplies,Pet Supplies,Desk
+1021_CId,131_PId,Aston,PA,019014,Automated External Defibrillators,Business & Industrial,Medical,Desk
+1021_CId,144_PId,Aston,PA,019014,E-Book Reader Accessories,Electronics,Electronics Accessories,Desk
+1021_CId,136_PId,Aston,PA,019014,Patient Lifts,Business & Industrial,Medical,Desk
+1022_CId,141_PId,San Jose,CA,095111,Computer Covers & Skins,Electronics,Electronics Accessories,Mobile
+1022_CId,134_PId,San Jose,CA,095111,Medical Stretchers & Gurneys,Business & Industrial,Medical,Mobile
+1022_CId,120_PId,San Jose,CA,095111,Pajamas,Apparel & Accessories,Clothing,Mobile
+1022_CId,117_PId,San Jose,CA,095111,Baptism,Apparel & Accessories,Clothing,Mobile
+1024_CId,116_PId,Albany,NY,012204,Religious Ceremonial Clothing,Apparel & Accessories,Clothing,Desk
+1024_CId,142_PId,Albany,NY,012204,Computer Risers & Stands,Electronics,Electronics Accessories,Desk
+1030_CId,106_PId,Conroe,TX,077301,Cat Litter,Animals & Pet Supplies,Pet Supplies,Mobile
+1030_CId,132_PId,Conroe,TX,077301,Gait Belts,Business & Industrial,Medical,Mobile
+1030_CId,131_PId,Conroe,TX,077301,Automated External Defibrillators,Business & Industrial,Medical,Mobile
+1030_CId,106_PId,Conroe,TX,077301,Cat Litter,Animals & Pet Supplies,Pet Supplies,Mobile
+1030_CId,144_PId,Conroe,TX,077301,E-Book Reader Accessories,Electronics,Electronics Accessories,Mobile
+1013_CId,134_PId,Los Angeles,CA,090034,Medical Stretchers & Gurneys,Business & Industrial,Medical,Desk
+1013_CId,148_PId,Los Angeles,CA,090034,Keyboard & Mouse Wrist Rests,Electronics,Electronics Accessories,Desk
+1013_CId,141_PId,Los Angeles,CA,090034,Computer Covers & Skins,Electronics,Electronics Accessories,Desk
+1013_CId,123_PId,Los Angeles,CA,090034,Drawing & Painting Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1013_CId,117_PId,Los Angeles,CA,090034,Baptism,Apparel & Accessories,Clothing,Desk
+1011_CId,104_PId,Kulpsville,PA,019443,Cat Furniture,Animals & Pet Supplies,Pet Supplies,Desk
+1011_CId,122_PId,Kulpsville,PA,019443,Candle Making Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1011_CId,128_PId,Kulpsville,PA,019443,Needlecraft Kits,Arts & Entertainment,Hobbies & Creative Arts,Desk
+1011_CId,133_PId,Kulpsville,PA,019443,Medical Reflex Hammers & Tuning Forks,Business & Industrial,Medical,Desk
