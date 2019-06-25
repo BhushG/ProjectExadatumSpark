@@ -103,7 +103,7 @@ public class ServerLogData implements Serializable
     }
 
 
-    private StructType productViewAndAddToCartSchema()
+    private StructType productViewAndAddToCartSchema()   //ProductView dataset and AddToCart dataset, both have same schema
     {
         StructField timestamp = DataTypes.createStructField("Timestamp",DataTypes.StringType,true);
         StructField customerId = DataTypes.createStructField("CustomerId",DataTypes.StringType,true);
@@ -115,7 +115,7 @@ public class ServerLogData implements Serializable
         return rowSchema;
     }
 
-    private StructType purchaseProductSchema()
+    private StructType purchaseProductSchema()   //Purchase dataset has one more column i.e. Quantity 
     {
         StructField timestamp = DataTypes.createStructField("Timestamp",DataTypes.StringType,true);
         StructField customerId = DataTypes.createStructField("CustomerId",DataTypes.StringType,true);
