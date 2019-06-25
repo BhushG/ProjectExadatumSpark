@@ -15,7 +15,7 @@ public class ProductData
 
     public Dataset<Row> getProducts()
     {
-        Dataset<Row> productData = sparkSession.read().option("header",true).csv(ProjectConfig.productRawData); //read Product data
+        Dataset<Row> productData = sparkSession.read().option("header",true).csv(ProjectConfig.productRawData); //read Product data, there is no need to apply any transformation on ProductData
         return productData;
     }
 
