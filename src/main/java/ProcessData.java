@@ -74,7 +74,7 @@ public class ProcessData
         //productsData.select("Category").groupBy("Category").count().show();                                          //Get category wise count
 
 
-        //createAndSaveCatalogues(sparkSession,customerData,productsData,projectConfig);
+        createAndSaveCatalogues(sparkSession,customerData,productsData,projectConfig);   //This function will create Catalogues. ProductViewCatalogue, AddToCartCatalogue, PurchaseCatalogue and saves these catalogues in .//Output directory partitioned on Timestamp (Timestamp has been mapped to contain only date and hr information. Minutes and seconds have been removed in mapping)
 
         Dataset<Row> purchaseCatalogue = sparkSession.read().option("header",true).option("delimiter",",").csv(projectConfig.outputDir+"PurchaseCatalogue");
         purchaseCatalogue.createOrReplaceTempView("PurchaseCatalogue");
