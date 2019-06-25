@@ -25,7 +25,7 @@ public class CustomerData implements Serializable
     }
 
 
-    private StructType createCustomerSchema()
+    private StructType createCustomerSchema()   //this is Schema for Customer dataset
     {
         StructField customerId = DataTypes.createStructField("CustomerId",DataTypes.StringType,true);
         StructField firstName = DataTypes.createStructField("FirstName",DataTypes.StringType,true);
