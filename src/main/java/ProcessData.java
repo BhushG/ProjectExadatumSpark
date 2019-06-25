@@ -61,7 +61,7 @@ public class ProcessData
 
     public static void main(String[] args)
     {
-        ProjectConfig projectConfig= new ProjectConfig();
+        ProjectConfig projectConfig= new ProjectConfig();   //Initialize ProjectConfig class. It will read configurations from external text file. projectConfig will contaion spark configurations such as Master and AppName and input file locations such as Customers.csv 
         SparkConf sparkConf = new SparkConf().setAppName(projectConfig.appName).setMaster(projectConfig.master);
         SparkSession sparkSession = SparkSession.builder().enableHiveSupport().config(sparkConf).getOrCreate();
         sparkSession.sql("set hive.exec.dynamic.partition.mode=nonstrict");                     
