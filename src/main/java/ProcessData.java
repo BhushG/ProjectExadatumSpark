@@ -61,7 +61,7 @@ public class ProcessData
         ProjectConfig projectConfig= new ProjectConfig();
         SparkConf sparkConf = new SparkConf().setAppName(projectConfig.appName).setMaster(projectConfig.master);
         SparkSession sparkSession = SparkSession.builder().enableHiveSupport().config(sparkConf).getOrCreate();
-        sparkSession.sql("set hive.exec.dynamic.partition.mode=nonstrict");
+        sparkSession.sql("set hive.exec.dynamic.partition.mode=nonstrict");                     
         sparkSession.sql("set hive.exec.dynamic.partition=true");
 
         Dataset<Row> customerData = new CustomerData(sparkSession).mapAndGetCustomers();                                //fetch Customer table in customerData dataset
@@ -76,12 +76,12 @@ public class ProcessData
 
         createAndSaveCatalogues(sparkSession,customerData,productsData,projectConfig);   //This function will create Catalogues. ProductViewCatalogue, AddToCartCatalogue, PurchaseCatalogue and saves these catalogues in .//Output directory partitioned on Timestamp (Timestamp has been mapped to contain only date and hr information. Minutes and seconds have been removed in mapping)
 
-        Dataset<Row> purchaseCatalogue = sparkSession.read().option("header",true).option("delimiter",",").csv(projectConfig.outputDir+"PurchaseCatalogue");
-        purchaseCatalogue.createOrReplaceTempView("PurchaseCatalogue");
+        Dataset<Row> purchaseCatalogue = sparkSession.read().option("header",true).option("delimiter",",").csv(projectConfig.outputDir+"PurchaseCatalogue");        //Load data from purchase catalogue. This catalogue data will be used to extract insights such as Top 5 selling products
+        purchaseCatalogue.createOrReplaceTempView("PurchaseCatalogue");               //create temporory view on Purchase Catalogue so we can perform SQL queries on it.
         purchaseCatalogue.show();
 
-        extractData(sparkSession);
-        createHiveTableProductsSoldPerCity(sparkSession);
+        extractData(sparkSession);                                      //This method will query the required data in Probelm statement. I was little confused about the required data whether to create Hive tables or Dataframes as output. So I created Dataframes in this method as result of query. In next method I created hive tables.
+        createHiveTableProductsSoldPerCity(sparkSession);               //In this method I inserted data in partitioned hive table for ProductsSoldPerCity table. This table is already created in hive as [CREATE TABLE ProductsSoldPerCity (City string,State string,Zipcode string,Count int)PARTITIONED BY(TimestampDateHr string);] So it is partitioned on column TimestampDateHr
     }
 
 }
